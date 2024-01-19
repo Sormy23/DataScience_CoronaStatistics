@@ -1,1405 +1,1405 @@
 Bundesland;Bildung;Altersgr;ErwerbStatus;GeimpftGenesen;Anz
-Burgenland;Pflichtschule;25 - 34;aktiv;vacc;611
-Burgenland;Pflichtschule;25 - 34;aktiv;vacc + recov;285
-Burgenland;Pflichtschule;25 - 34;aktiv;recov;396
-Burgenland;Pflichtschule;25 - 34;aktiv;nothing;472
-Burgenland;Pflichtschule;25 - 34;inaktiv;vacc;471
-Burgenland;Pflichtschule;25 - 34;inaktiv;vacc + recov;173
-Burgenland;Pflichtschule;25 - 34;inaktiv;recov;303
-Burgenland;Pflichtschule;25 - 34;inaktiv;nothing;456
-Burgenland;Pflichtschule;35 - 44;aktiv;vacc;1170
-Burgenland;Pflichtschule;35 - 44;aktiv;vacc + recov;597
-Burgenland;Pflichtschule;35 - 44;aktiv;recov;532
-Burgenland;Pflichtschule;35 - 44;aktiv;nothing;531
-Burgenland;Pflichtschule;35 - 44;inaktiv;vacc;549
-Burgenland;Pflichtschule;35 - 44;inaktiv;vacc + recov;199
-Burgenland;Pflichtschule;35 - 44;inaktiv;recov;253
-Burgenland;Pflichtschule;35 - 44;inaktiv;nothing;425
-Burgenland;Pflichtschule;45 - 54;aktiv;vacc;2010
-Burgenland;Pflichtschule;45 - 54;aktiv;vacc + recov;932
-Burgenland;Pflichtschule;45 - 54;aktiv;recov;575
-Burgenland;Pflichtschule;45 - 54;aktiv;nothing;688
-Burgenland;Pflichtschule;45 - 54;inaktiv;vacc;835
-Burgenland;Pflichtschule;45 - 54;inaktiv;vacc + recov;206
-Burgenland;Pflichtschule;45 - 54;inaktiv;recov;188
-Burgenland;Pflichtschule;45 - 54;inaktiv;nothing;421
-Burgenland;Pflichtschule;55 - 64;aktiv;vacc;2023
-Burgenland;Pflichtschule;55 - 64;aktiv;vacc + recov;787
-Burgenland;Pflichtschule;55 - 64;aktiv;recov;239
-Burgenland;Pflichtschule;55 - 64;aktiv;nothing;385
-Burgenland;Pflichtschule;55 - 64;inaktiv;vacc;3781
-Burgenland;Pflichtschule;55 - 64;inaktiv;vacc + recov;924
-Burgenland;Pflichtschule;55 - 64;inaktiv;recov;275
-Burgenland;Pflichtschule;55 - 64;inaktiv;nothing;812
-Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;vacc;4194
-Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;2475
-Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;recov;2177
-Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;nothing;1828
-Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;868
-Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;341
-Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;recov;505
-Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;647
-Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;vacc;6354
-Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;3998
-Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;recov;2712
-Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;nothing;2185
-Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;979
-Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;358
-Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;recov;510
-Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;671
-Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;vacc;10611
-Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;5493
-Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;recov;2350
-Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;nothing;2273
-Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;1681
-Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;448
-Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;recov;373
-Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;728
-Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;vacc;9015
-Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;3759
-Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;recov;1071
-Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;nothing;1453
-Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;8581
-Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;2165
-Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;recov;625
-Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;1655
-Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;2300
-Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;1845
-Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;recov;939
-Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;596
-Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;505
-Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;277
-Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;231
-Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;235
-Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;2646
-Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;2160
-Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;recov;1015
-Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;739
-Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;355
-Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;178
-Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;199
-Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;237
-Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;3459
-Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;2025
-Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;recov;711
-Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;651
-Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;345
-Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;110
-Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;102
-Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;174
-Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;2541
-Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;1040
-Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;recov;289
-Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;400
-Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;1292
-Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;346
-Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;111
-Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;342
-Burgenland;Akademie/Hochschule;25 - 34;aktiv;vacc;2074
-Burgenland;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;1872
-Burgenland;Akademie/Hochschule;25 - 34;aktiv;recov;567
-Burgenland;Akademie/Hochschule;25 - 34;aktiv;nothing;358
-Burgenland;Akademie/Hochschule;25 - 34;inaktiv;vacc;387
-Burgenland;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;226
-Burgenland;Akademie/Hochschule;25 - 34;inaktiv;recov;170
-Burgenland;Akademie/Hochschule;25 - 34;inaktiv;nothing;139
-Burgenland;Akademie/Hochschule;35 - 44;aktiv;vacc;2558
-Burgenland;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;2336
-Burgenland;Akademie/Hochschule;35 - 44;aktiv;recov;759
-Burgenland;Akademie/Hochschule;35 - 44;aktiv;nothing;507
-Burgenland;Akademie/Hochschule;35 - 44;inaktiv;vacc;353
-Burgenland;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;175
-Burgenland;Akademie/Hochschule;35 - 44;inaktiv;recov;164
-Burgenland;Akademie/Hochschule;35 - 44;inaktiv;nothing;206
-Burgenland;Akademie/Hochschule;45 - 54;aktiv;vacc;2778
-Burgenland;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;1922
-Burgenland;Akademie/Hochschule;45 - 54;aktiv;recov;498
-Burgenland;Akademie/Hochschule;45 - 54;aktiv;nothing;435
-Burgenland;Akademie/Hochschule;45 - 54;inaktiv;vacc;203
-Burgenland;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;60
-Burgenland;Akademie/Hochschule;45 - 54;inaktiv;recov;57
-Burgenland;Akademie/Hochschule;45 - 54;inaktiv;nothing;98
-Burgenland;Akademie/Hochschule;55 - 64;aktiv;vacc;2335
-Burgenland;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;1120
-Burgenland;Akademie/Hochschule;55 - 64;aktiv;recov;216
-Burgenland;Akademie/Hochschule;55 - 64;aktiv;nothing;290
-Burgenland;Akademie/Hochschule;55 - 64;inaktiv;vacc;619
-Burgenland;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;143
-Burgenland;Akademie/Hochschule;55 - 64;inaktiv;recov;52
-Burgenland;Akademie/Hochschule;55 - 64;inaktiv;nothing;162
-Burgenland;N/A;25 - 34;aktiv;vacc + recov;3
-Burgenland;N/A;25 - 34;aktiv;nothing;1
-Burgenland;N/A;25 - 34;inaktiv;vacc;8
-Burgenland;N/A;25 - 34;inaktiv;recov;1
-Burgenland;N/A;25 - 34;inaktiv;nothing;4
-Burgenland;N/A;35 - 44;aktiv;vacc;3
-Burgenland;N/A;35 - 44;aktiv;recov;2
-Burgenland;N/A;35 - 44;aktiv;nothing;2
-Burgenland;N/A;35 - 44;inaktiv;vacc;2
-Burgenland;N/A;35 - 44;inaktiv;vacc + recov;1
-Burgenland;N/A;35 - 44;inaktiv;recov;2
-Burgenland;N/A;35 - 44;inaktiv;nothing;6
-Burgenland;N/A;45 - 54;aktiv;vacc;1
-Burgenland;N/A;45 - 54;aktiv;vacc + recov;1
-Burgenland;N/A;45 - 54;aktiv;recov;3
-Burgenland;N/A;45 - 54;aktiv;nothing;1
-Burgenland;N/A;45 - 54;inaktiv;vacc;2
-Burgenland;N/A;45 - 54;inaktiv;recov;1
-Burgenland;N/A;45 - 54;inaktiv;nothing;4
-Burgenland;N/A;55 - 64;aktiv;nothing;1
-Burgenland;N/A;55 - 64;inaktiv;vacc;1
-Burgenland;N/A;55 - 64;inaktiv;nothing;1
-Kärnten;Pflichtschule;25 - 34;aktiv;vacc;1835
-Kärnten;Pflichtschule;25 - 34;aktiv;vacc + recov;534
-Kärnten;Pflichtschule;25 - 34;aktiv;recov;1254
-Kärnten;Pflichtschule;25 - 34;aktiv;nothing;1620
-Kärnten;Pflichtschule;25 - 34;inaktiv;vacc;1127
-Kärnten;Pflichtschule;25 - 34;inaktiv;vacc + recov;271
-Kärnten;Pflichtschule;25 - 34;inaktiv;recov;636
-Kärnten;Pflichtschule;25 - 34;inaktiv;nothing;1364
-Kärnten;Pflichtschule;35 - 44;aktiv;vacc;2239
-Kärnten;Pflichtschule;35 - 44;aktiv;vacc + recov;728
-Kärnten;Pflichtschule;35 - 44;aktiv;recov;1281
-Kärnten;Pflichtschule;35 - 44;aktiv;nothing;1484
-Kärnten;Pflichtschule;35 - 44;inaktiv;vacc;1112
-Kärnten;Pflichtschule;35 - 44;inaktiv;vacc + recov;248
-Kärnten;Pflichtschule;35 - 44;inaktiv;recov;518
-Kärnten;Pflichtschule;35 - 44;inaktiv;nothing;1058
-Kärnten;Pflichtschule;45 - 54;aktiv;vacc;2963
-Kärnten;Pflichtschule;45 - 54;aktiv;vacc + recov;786
-Kärnten;Pflichtschule;45 - 54;aktiv;recov;928
-Kärnten;Pflichtschule;45 - 54;aktiv;nothing;1404
-Kärnten;Pflichtschule;45 - 54;inaktiv;vacc;1640
-Kärnten;Pflichtschule;45 - 54;inaktiv;vacc + recov;265
-Kärnten;Pflichtschule;45 - 54;inaktiv;recov;380
-Kärnten;Pflichtschule;45 - 54;inaktiv;nothing;942
-Kärnten;Pflichtschule;55 - 64;aktiv;vacc;2587
-Kärnten;Pflichtschule;55 - 64;aktiv;vacc + recov;590
-Kärnten;Pflichtschule;55 - 64;aktiv;recov;520
-Kärnten;Pflichtschule;55 - 64;aktiv;nothing;921
-Kärnten;Pflichtschule;55 - 64;inaktiv;vacc;4498
-Kärnten;Pflichtschule;55 - 64;inaktiv;vacc + recov;632
-Kärnten;Pflichtschule;55 - 64;inaktiv;recov;631
-Kärnten;Pflichtschule;55 - 64;inaktiv;nothing;1870
-Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;vacc;6997
-Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;2908
-Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;recov;6148
-Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;nothing;5612
-Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;1604
-Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;437
-Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;recov;1520
-Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;1860
-Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;vacc;9946
-Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;4335
-Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;recov;6474
-Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;nothing;6086
-Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;1822
-Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;438
-Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;recov;1161
-Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;1660
-Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;vacc;17969
-Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;6235
-Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;recov;5773
-Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;nothing;6747
-Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;3593
-Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;661
-Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;recov;988
-Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;2024
-Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;vacc;16305
-Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;4705
-Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;recov;3183
-Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;nothing;4590
-Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;16880
-Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;2846
-Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;recov;2228
-Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;5005
-Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;4023
-Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;2136
-Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;recov;2370
-Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;2119
-Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;943
-Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;350
-Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;624
-Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;725
-Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;4360
-Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;2284
-Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;recov;2336
-Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;2038
-Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;565
-Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;191
-Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;347
-Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;458
-Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;5305
-Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;2295
-Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;recov;1492
-Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;1595
-Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;633
-Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;144
-Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;173
-Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;360
-Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;4377
-Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;1454
-Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;recov;643
-Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;982
-Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;2440
-Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;423
-Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;259
-Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;629
-Kärnten;Akademie/Hochschule;25 - 34;aktiv;vacc;3926
-Kärnten;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;2556
-Kärnten;Akademie/Hochschule;25 - 34;aktiv;recov;1710
-Kärnten;Akademie/Hochschule;25 - 34;aktiv;nothing;1407
-Kärnten;Akademie/Hochschule;25 - 34;inaktiv;vacc;793
-Kärnten;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;360
-Kärnten;Akademie/Hochschule;25 - 34;inaktiv;recov;510
-Kärnten;Akademie/Hochschule;25 - 34;inaktiv;nothing;556
-Kärnten;Akademie/Hochschule;35 - 44;aktiv;vacc;5253
-Kärnten;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;3374
-Kärnten;Akademie/Hochschule;35 - 44;aktiv;recov;2092
-Kärnten;Akademie/Hochschule;35 - 44;aktiv;nothing;1740
-Kärnten;Akademie/Hochschule;35 - 44;inaktiv;vacc;681
-Kärnten;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;240
-Kärnten;Akademie/Hochschule;35 - 44;inaktiv;recov;363
-Kärnten;Akademie/Hochschule;35 - 44;inaktiv;nothing;472
-Kärnten;Akademie/Hochschule;45 - 54;aktiv;vacc;5689
-Kärnten;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;2874
-Kärnten;Akademie/Hochschule;45 - 54;aktiv;recov;1386
-Kärnten;Akademie/Hochschule;45 - 54;aktiv;nothing;1376
-Kärnten;Akademie/Hochschule;45 - 54;inaktiv;vacc;501
-Kärnten;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;85
-Kärnten;Akademie/Hochschule;45 - 54;inaktiv;recov;126
-Kärnten;Akademie/Hochschule;45 - 54;inaktiv;nothing;275
-Kärnten;Akademie/Hochschule;55 - 64;aktiv;vacc;5190
-Kärnten;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;2037
-Kärnten;Akademie/Hochschule;55 - 64;aktiv;recov;614
-Kärnten;Akademie/Hochschule;55 - 64;aktiv;nothing;829
-Kärnten;Akademie/Hochschule;55 - 64;inaktiv;vacc;1482
-Kärnten;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;299
-Kärnten;Akademie/Hochschule;55 - 64;inaktiv;recov;163
-Kärnten;Akademie/Hochschule;55 - 64;inaktiv;nothing;375
-Kärnten;N/A;25 - 34;aktiv;vacc;8
-Kärnten;N/A;25 - 34;aktiv;vacc + recov;1
-Kärnten;N/A;25 - 34;aktiv;recov;2
-Kärnten;N/A;25 - 34;aktiv;nothing;6
-Kärnten;N/A;25 - 34;inaktiv;vacc;8
-Kärnten;N/A;25 - 34;inaktiv;vacc + recov;1
-Kärnten;N/A;25 - 34;inaktiv;recov;4
-Kärnten;N/A;25 - 34;inaktiv;nothing;17
-Kärnten;N/A;35 - 44;aktiv;vacc;3
-Kärnten;N/A;35 - 44;aktiv;vacc + recov;1
-Kärnten;N/A;35 - 44;aktiv;recov;1
-Kärnten;N/A;35 - 44;aktiv;nothing;4
-Kärnten;N/A;35 - 44;inaktiv;vacc;8
-Kärnten;N/A;35 - 44;inaktiv;vacc + recov;1
-Kärnten;N/A;35 - 44;inaktiv;recov;5
-Kärnten;N/A;35 - 44;inaktiv;nothing;11
-Kärnten;N/A;45 - 54;aktiv;vacc;1
-Kärnten;N/A;45 - 54;aktiv;vacc + recov;1
-Kärnten;N/A;45 - 54;aktiv;recov;2
-Kärnten;N/A;45 - 54;aktiv;nothing;3
-Kärnten;N/A;45 - 54;inaktiv;vacc;5
-Kärnten;N/A;45 - 54;inaktiv;nothing;1
-Kärnten;N/A;55 - 64;aktiv;vacc;1
-Kärnten;N/A;55 - 64;aktiv;recov;1
-Kärnten;N/A;55 - 64;aktiv;nothing;2
-Kärnten;N/A;55 - 64;inaktiv;vacc;10
-Kärnten;N/A;55 - 64;inaktiv;nothing;3
-Niederösterreich;Pflichtschule;25 - 34;aktiv;vacc;5558
-Niederösterreich;Pflichtschule;25 - 34;aktiv;vacc + recov;2397
-Niederösterreich;Pflichtschule;25 - 34;aktiv;recov;3654
-Niederösterreich;Pflichtschule;25 - 34;aktiv;nothing;3741
-Niederösterreich;Pflichtschule;25 - 34;inaktiv;vacc;3686
-Niederösterreich;Pflichtschule;25 - 34;inaktiv;vacc + recov;1220
-Niederösterreich;Pflichtschule;25 - 34;inaktiv;recov;2199
-Niederösterreich;Pflichtschule;25 - 34;inaktiv;nothing;3241
-Niederösterreich;Pflichtschule;35 - 44;aktiv;vacc;8202
-Niederösterreich;Pflichtschule;35 - 44;aktiv;vacc + recov;3805
-Niederösterreich;Pflichtschule;35 - 44;aktiv;recov;4333
-Niederösterreich;Pflichtschule;35 - 44;aktiv;nothing;4236
-Niederösterreich;Pflichtschule;35 - 44;inaktiv;vacc;3428
-Niederösterreich;Pflichtschule;35 - 44;inaktiv;vacc + recov;1122
-Niederösterreich;Pflichtschule;35 - 44;inaktiv;recov;1804
-Niederösterreich;Pflichtschule;35 - 44;inaktiv;nothing;2502
-Niederösterreich;Pflichtschule;45 - 54;aktiv;vacc;11415
-Niederösterreich;Pflichtschule;45 - 54;aktiv;vacc + recov;4523
-Niederösterreich;Pflichtschule;45 - 54;aktiv;recov;3701
-Niederösterreich;Pflichtschule;45 - 54;aktiv;nothing;4234
-Niederösterreich;Pflichtschule;45 - 54;inaktiv;vacc;4458
-Niederösterreich;Pflichtschule;45 - 54;inaktiv;vacc + recov;1135
-Niederösterreich;Pflichtschule;45 - 54;inaktiv;recov;1282
-Niederösterreich;Pflichtschule;45 - 54;inaktiv;nothing;2456
-Niederösterreich;Pflichtschule;55 - 64;aktiv;vacc;9961
-Niederösterreich;Pflichtschule;55 - 64;aktiv;vacc + recov;3281
-Niederösterreich;Pflichtschule;55 - 64;aktiv;recov;2021
-Niederösterreich;Pflichtschule;55 - 64;aktiv;nothing;2789
-Niederösterreich;Pflichtschule;55 - 64;inaktiv;vacc;14727
-Niederösterreich;Pflichtschule;55 - 64;inaktiv;vacc + recov;3166
-Niederösterreich;Pflichtschule;55 - 64;inaktiv;recov;1964
-Niederösterreich;Pflichtschule;55 - 64;inaktiv;nothing;4816
-Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;vacc;24628
-Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;14458
-Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;recov;16738
-Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;nothing;12169
-Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;4506
-Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;1972
-Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;recov;4093
-Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;3688
-Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;vacc;32188
-Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;20134
-Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;recov;18503
-Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;nothing;13023
-Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;4442
-Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;1699
-Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;recov;2725
-Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;3016
-Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;vacc;55581
-Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;27476
-Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;recov;16443
-Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;nothing;14807
-Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;7563
-Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;1895
-Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;recov;2046
-Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;3463
-Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;vacc;49874
-Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;19878
-Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;recov;8195
-Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;nothing;10028
-Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;41357
-Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;10022
-Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;recov;4444
-Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;9371
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;13999
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;10645
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;recov;6226
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;3955
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;2868
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;1613
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;1703
-Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;1535
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;15064
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;11177
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;recov;6097
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;3993
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;1859
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;985
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;1026
-Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;1064
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;19003
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;10972
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;recov;4373
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;3499
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;1868
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;567
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;502
-Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;836
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;14802
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;6301
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;recov;1823
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;2183
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;6637
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;1616
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;605
-Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;1526
-Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;vacc;12648
-Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;11199
-Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;recov;3465
-Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;nothing;2260
-Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;vacc;2682
-Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;1506
-Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;recov;1120
-Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;nothing;1100
-Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;vacc;16528
-Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;14202
-Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;recov;4589
-Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;nothing;3270
-Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;vacc;2242
-Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;1195
-Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;recov;951
-Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;nothing;933
-Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;vacc;18926
-Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;12576
-Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;recov;3555
-Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;nothing;2819
-Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;vacc;1234
-Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;453
-Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;recov;343
-Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;nothing;561
-Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;vacc;15181
-Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;7329
-Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;recov;1537
-Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;nothing;1815
-Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;vacc;3829
-Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;1091
-Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;recov;378
-Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;nothing;887
-Niederösterreich;N/A;25 - 34;aktiv;vacc;13
-Niederösterreich;N/A;25 - 34;aktiv;vacc + recov;6
-Niederösterreich;N/A;25 - 34;aktiv;recov;3
-Niederösterreich;N/A;25 - 34;aktiv;nothing;12
-Niederösterreich;N/A;25 - 34;inaktiv;vacc;27
-Niederösterreich;N/A;25 - 34;inaktiv;vacc + recov;7
-Niederösterreich;N/A;25 - 34;inaktiv;recov;9
-Niederösterreich;N/A;25 - 34;inaktiv;nothing;31
-Niederösterreich;N/A;35 - 44;aktiv;vacc;7
-Niederösterreich;N/A;35 - 44;aktiv;vacc + recov;2
-Niederösterreich;N/A;35 - 44;aktiv;recov;2
-Niederösterreich;N/A;35 - 44;aktiv;nothing;11
-Niederösterreich;N/A;35 - 44;inaktiv;vacc;9
-Niederösterreich;N/A;35 - 44;inaktiv;vacc + recov;4
-Niederösterreich;N/A;35 - 44;inaktiv;recov;4
-Niederösterreich;N/A;35 - 44;inaktiv;nothing;17
-Niederösterreich;N/A;45 - 54;aktiv;vacc;8
-Niederösterreich;N/A;45 - 54;aktiv;recov;2
-Niederösterreich;N/A;45 - 54;aktiv;nothing;10
-Niederösterreich;N/A;45 - 54;inaktiv;vacc;13
-Niederösterreich;N/A;45 - 54;inaktiv;recov;3
-Niederösterreich;N/A;45 - 54;inaktiv;nothing;9
-Niederösterreich;N/A;55 - 64;aktiv;vacc;4
-Niederösterreich;N/A;55 - 64;aktiv;nothing;7
-Niederösterreich;N/A;55 - 64;inaktiv;vacc;8
-Niederösterreich;N/A;55 - 64;inaktiv;vacc + recov;1
-Niederösterreich;N/A;55 - 64;inaktiv;recov;1
-Niederösterreich;N/A;55 - 64;inaktiv;nothing;9
-Oberösterreich;Pflichtschule;25 - 34;aktiv;vacc;5668
-Oberösterreich;Pflichtschule;25 - 34;aktiv;vacc + recov;1995
-Oberösterreich;Pflichtschule;25 - 34;aktiv;recov;5355
-Oberösterreich;Pflichtschule;25 - 34;aktiv;nothing;6110
-Oberösterreich;Pflichtschule;25 - 34;inaktiv;vacc;3070
-Oberösterreich;Pflichtschule;25 - 34;inaktiv;vacc + recov;851
-Oberösterreich;Pflichtschule;25 - 34;inaktiv;recov;2410
-Oberösterreich;Pflichtschule;25 - 34;inaktiv;nothing;3983
-Oberösterreich;Pflichtschule;35 - 44;aktiv;vacc;7891
-Oberösterreich;Pflichtschule;35 - 44;aktiv;vacc + recov;3019
-Oberösterreich;Pflichtschule;35 - 44;aktiv;recov;5747
-Oberösterreich;Pflichtschule;35 - 44;aktiv;nothing;6091
-Oberösterreich;Pflichtschule;35 - 44;inaktiv;vacc;2889
-Oberösterreich;Pflichtschule;35 - 44;inaktiv;vacc + recov;780
-Oberösterreich;Pflichtschule;35 - 44;inaktiv;recov;1773
-Oberösterreich;Pflichtschule;35 - 44;inaktiv;nothing;2733
-Oberösterreich;Pflichtschule;45 - 54;aktiv;vacc;11619
-Oberösterreich;Pflichtschule;45 - 54;aktiv;vacc + recov;3994
-Oberösterreich;Pflichtschule;45 - 54;aktiv;recov;5025
-Oberösterreich;Pflichtschule;45 - 54;aktiv;nothing;6248
-Oberösterreich;Pflichtschule;45 - 54;inaktiv;vacc;3981
-Oberösterreich;Pflichtschule;45 - 54;inaktiv;vacc + recov;903
-Oberösterreich;Pflichtschule;45 - 54;inaktiv;recov;1158
-Oberösterreich;Pflichtschule;45 - 54;inaktiv;nothing;2442
-Oberösterreich;Pflichtschule;55 - 64;aktiv;vacc;10857
-Oberösterreich;Pflichtschule;55 - 64;aktiv;vacc + recov;3196
-Oberösterreich;Pflichtschule;55 - 64;aktiv;recov;2668
-Oberösterreich;Pflichtschule;55 - 64;aktiv;nothing;3830
-Oberösterreich;Pflichtschule;55 - 64;inaktiv;vacc;14262
-Oberösterreich;Pflichtschule;55 - 64;inaktiv;vacc + recov;2678
-Oberösterreich;Pflichtschule;55 - 64;inaktiv;recov;2278
-Oberösterreich;Pflichtschule;55 - 64;inaktiv;nothing;5237
-Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;vacc;22088
-Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;12216
-Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;recov;22426
-Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;nothing;17286
-Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;3927
-Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;1643
-Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;recov;4541
-Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;4422
-Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;vacc;27477
-Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;16047
-Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;recov;22040
-Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;nothing;16923
-Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;3328
-Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;1235
-Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;recov;2641
-Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;3035
-Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;vacc;44554
-Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;20437
-Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;recov;18526
-Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;nothing;17741
-Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;5056
-Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;1108
-Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;recov;1723
-Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;2812
-Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;vacc;42594
-Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;16142
-Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;recov;9290
-Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;nothing;11851
-Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;32409
-Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;7256
-Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;recov;4354
-Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;8406
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;9859
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;7049
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;recov;6142
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;4403
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;2363
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;1156
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;1641
-Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;1636
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;9268
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;6642
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;recov;5672
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;3949
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;1175
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;521
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;851
-Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;891
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;10638
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;5938
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;recov;3646
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;3172
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;1054
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;267
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;282
-Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;561
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;9021
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;3585
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;recov;1459
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;1920
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;4138
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;898
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;452
-Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;1042
-Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;vacc;11789
-Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;9550
-Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;recov;4374
-Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;nothing;3099
-Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;vacc;2231
-Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;1228
-Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;recov;1225
-Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;nothing;1359
-Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;vacc;13600
-Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;10977
-Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;recov;5084
-Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;nothing;3682
-Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;vacc;1600
-Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;815
-Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;recov;880
-Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;nothing;912
-Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;vacc;13124
-Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;8343
-Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;recov;3213
-Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;nothing;2835
-Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;vacc;800
-Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;219
-Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;recov;227
-Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;nothing;436
-Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;vacc;11352
-Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;5381
-Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;recov;1333
-Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;nothing;1674
-Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;vacc;3173
-Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;861
-Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;recov;306
-Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;nothing;688
-Oberösterreich;N/A;25 - 34;aktiv;vacc;15
-Oberösterreich;N/A;25 - 34;aktiv;vacc + recov;3
-Oberösterreich;N/A;25 - 34;aktiv;recov;8
-Oberösterreich;N/A;25 - 34;aktiv;nothing;22
-Oberösterreich;N/A;25 - 34;inaktiv;vacc;31
-Oberösterreich;N/A;25 - 34;inaktiv;vacc + recov;5
-Oberösterreich;N/A;25 - 34;inaktiv;recov;17
-Oberösterreich;N/A;25 - 34;inaktiv;nothing;36
-Oberösterreich;N/A;35 - 44;aktiv;vacc;7
-Oberösterreich;N/A;35 - 44;aktiv;vacc + recov;4
-Oberösterreich;N/A;35 - 44;aktiv;recov;12
-Oberösterreich;N/A;35 - 44;aktiv;nothing;13
-Oberösterreich;N/A;35 - 44;inaktiv;vacc;19
-Oberösterreich;N/A;35 - 44;inaktiv;vacc + recov;3
-Oberösterreich;N/A;35 - 44;inaktiv;recov;6
-Oberösterreich;N/A;35 - 44;inaktiv;nothing;23
-Oberösterreich;N/A;45 - 54;aktiv;vacc;6
-Oberösterreich;N/A;45 - 54;aktiv;vacc + recov;2
-Oberösterreich;N/A;45 - 54;aktiv;recov;3
-Oberösterreich;N/A;45 - 54;aktiv;nothing;6
-Oberösterreich;N/A;45 - 54;inaktiv;vacc;7
-Oberösterreich;N/A;45 - 54;inaktiv;recov;6
-Oberösterreich;N/A;45 - 54;inaktiv;nothing;20
-Oberösterreich;N/A;55 - 64;aktiv;nothing;5
-Oberösterreich;N/A;55 - 64;inaktiv;vacc;5
-Oberösterreich;N/A;55 - 64;inaktiv;vacc + recov;1
-Oberösterreich;N/A;55 - 64;inaktiv;recov;4
-Oberösterreich;N/A;55 - 64;inaktiv;nothing;15
-Salzburg;Pflichtschule;25 - 34;aktiv;vacc;2358
-Salzburg;Pflichtschule;25 - 34;aktiv;vacc + recov;879
-Salzburg;Pflichtschule;25 - 34;aktiv;recov;1804
-Salzburg;Pflichtschule;25 - 34;aktiv;nothing;2044
-Salzburg;Pflichtschule;25 - 34;inaktiv;vacc;934
-Salzburg;Pflichtschule;25 - 34;inaktiv;vacc + recov;299
-Salzburg;Pflichtschule;25 - 34;inaktiv;recov;617
-Salzburg;Pflichtschule;25 - 34;inaktiv;nothing;1007
-Salzburg;Pflichtschule;35 - 44;aktiv;vacc;3027
-Salzburg;Pflichtschule;35 - 44;aktiv;vacc + recov;1304
-Salzburg;Pflichtschule;35 - 44;aktiv;recov;1912
-Salzburg;Pflichtschule;35 - 44;aktiv;nothing;2038
-Salzburg;Pflichtschule;35 - 44;inaktiv;vacc;926
-Salzburg;Pflichtschule;35 - 44;inaktiv;vacc + recov;270
-Salzburg;Pflichtschule;35 - 44;inaktiv;recov;477
-Salzburg;Pflichtschule;35 - 44;inaktiv;nothing;794
-Salzburg;Pflichtschule;45 - 54;aktiv;vacc;4274
-Salzburg;Pflichtschule;45 - 54;aktiv;vacc + recov;1483
-Salzburg;Pflichtschule;45 - 54;aktiv;recov;1576
-Salzburg;Pflichtschule;45 - 54;aktiv;nothing;1874
-Salzburg;Pflichtschule;45 - 54;inaktiv;vacc;1201
-Salzburg;Pflichtschule;45 - 54;inaktiv;vacc + recov;318
-Salzburg;Pflichtschule;45 - 54;inaktiv;recov;348
-Salzburg;Pflichtschule;45 - 54;inaktiv;nothing;732
-Salzburg;Pflichtschule;55 - 64;aktiv;vacc;3489
-Salzburg;Pflichtschule;55 - 64;aktiv;vacc + recov;950
-Salzburg;Pflichtschule;55 - 64;aktiv;recov;777
-Salzburg;Pflichtschule;55 - 64;aktiv;nothing;1151
-Salzburg;Pflichtschule;55 - 64;inaktiv;vacc;3784
-Salzburg;Pflichtschule;55 - 64;inaktiv;vacc + recov;741
-Salzburg;Pflichtschule;55 - 64;inaktiv;recov;553
-Salzburg;Pflichtschule;55 - 64;inaktiv;nothing;1459
-Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;vacc;8030
-Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;4367
-Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;recov;6880
-Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;nothing;5436
-Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;1331
-Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;548
-Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;recov;1401
-Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;1357
-Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;vacc;10335
-Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;6003
-Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;recov;7071
-Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;nothing;5648
-Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;1241
-Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;513
-Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;recov;898
-Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;1007
-Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;vacc;16970
-Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;7790
-Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;recov;6380
-Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;nothing;6270
-Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;1907
-Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;446
-Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;recov;547
-Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;901
-Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;vacc;16259
-Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;6060
-Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;recov;3392
-Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;nothing;4370
-Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;10726
-Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;2492
-Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;recov;1530
-Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;2635
-Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;4182
-Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;3031
-Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;recov;2831
-Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;2016
-Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;915
-Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;441
-Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;665
-Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;714
-Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;3716
-Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;2682
-Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;recov;2235
-Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;1609
-Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;470
-Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;238
-Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;317
-Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;352
-Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;4148
-Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;2334
-Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;recov;1424
-Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;1230
-Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;405
-Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;123
-Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;122
-Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;216
-Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;3609
-Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;1530
-Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;recov;625
-Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;804
-Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;1500
-Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;384
-Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;165
-Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;384
-Salzburg;Akademie/Hochschule;25 - 34;aktiv;vacc;4708
-Salzburg;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;3959
-Salzburg;Akademie/Hochschule;25 - 34;aktiv;recov;2048
-Salzburg;Akademie/Hochschule;25 - 34;aktiv;nothing;1499
-Salzburg;Akademie/Hochschule;25 - 34;inaktiv;vacc;937
-Salzburg;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;469
-Salzburg;Akademie/Hochschule;25 - 34;inaktiv;recov;555
-Salzburg;Akademie/Hochschule;25 - 34;inaktiv;nothing;691
-Salzburg;Akademie/Hochschule;35 - 44;aktiv;vacc;5580
-Salzburg;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;4661
-Salzburg;Akademie/Hochschule;35 - 44;aktiv;recov;2216
-Salzburg;Akademie/Hochschule;35 - 44;aktiv;nothing;1781
-Salzburg;Akademie/Hochschule;35 - 44;inaktiv;vacc;788
-Salzburg;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;417
-Salzburg;Akademie/Hochschule;35 - 44;inaktiv;recov;401
-Salzburg;Akademie/Hochschule;35 - 44;inaktiv;nothing;426
-Salzburg;Akademie/Hochschule;45 - 54;aktiv;vacc;5453
-Salzburg;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;3629
-Salzburg;Akademie/Hochschule;45 - 54;aktiv;recov;1418
-Salzburg;Akademie/Hochschule;45 - 54;aktiv;nothing;1343
-Salzburg;Akademie/Hochschule;45 - 54;inaktiv;vacc;394
-Salzburg;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;154
-Salzburg;Akademie/Hochschule;45 - 54;inaktiv;recov;118
-Salzburg;Akademie/Hochschule;45 - 54;inaktiv;nothing;190
-Salzburg;Akademie/Hochschule;55 - 64;aktiv;vacc;5044
-Salzburg;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;2497
-Salzburg;Akademie/Hochschule;55 - 64;aktiv;recov;682
-Salzburg;Akademie/Hochschule;55 - 64;aktiv;nothing;848
-Salzburg;Akademie/Hochschule;55 - 64;inaktiv;vacc;1110
-Salzburg;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;284
-Salzburg;Akademie/Hochschule;55 - 64;inaktiv;recov;134
-Salzburg;Akademie/Hochschule;55 - 64;inaktiv;nothing;312
-Salzburg;N/A;25 - 34;aktiv;vacc;9
-Salzburg;N/A;25 - 34;aktiv;vacc + recov;3
-Salzburg;N/A;25 - 34;aktiv;recov;4
-Salzburg;N/A;25 - 34;aktiv;nothing;11
-Salzburg;N/A;25 - 34;inaktiv;vacc;11
-Salzburg;N/A;25 - 34;inaktiv;recov;3
-Salzburg;N/A;25 - 34;inaktiv;nothing;15
-Salzburg;N/A;35 - 44;aktiv;vacc;4
-Salzburg;N/A;35 - 44;aktiv;vacc + recov;3
-Salzburg;N/A;35 - 44;aktiv;recov;3
-Salzburg;N/A;35 - 44;aktiv;nothing;6
-Salzburg;N/A;35 - 44;inaktiv;vacc;6
-Salzburg;N/A;35 - 44;inaktiv;vacc + recov;1
-Salzburg;N/A;35 - 44;inaktiv;recov;1
-Salzburg;N/A;35 - 44;inaktiv;nothing;12
-Salzburg;N/A;45 - 54;aktiv;vacc;3
-Salzburg;N/A;45 - 54;aktiv;vacc + recov;1
-Salzburg;N/A;45 - 54;aktiv;recov;3
-Salzburg;N/A;45 - 54;aktiv;nothing;3
-Salzburg;N/A;45 - 54;inaktiv;vacc;8
-Salzburg;N/A;45 - 54;inaktiv;vacc + recov;1
-Salzburg;N/A;45 - 54;inaktiv;nothing;5
-Salzburg;N/A;55 - 64;aktiv;vacc;3
-Salzburg;N/A;55 - 64;aktiv;vacc + recov;1
-Salzburg;N/A;55 - 64;aktiv;recov;1
-Salzburg;N/A;55 - 64;aktiv;nothing;1
-Salzburg;N/A;55 - 64;inaktiv;vacc;4
-Salzburg;N/A;55 - 64;inaktiv;vacc + recov;1
-Salzburg;N/A;55 - 64;inaktiv;recov;1
-Salzburg;N/A;55 - 64;inaktiv;nothing;4
-Steiermark;Pflichtschule;25 - 34;aktiv;vacc;3949
-Steiermark;Pflichtschule;25 - 34;aktiv;vacc + recov;1438
-Steiermark;Pflichtschule;25 - 34;aktiv;recov;2877
-Steiermark;Pflichtschule;25 - 34;aktiv;nothing;3311
-Steiermark;Pflichtschule;25 - 34;inaktiv;vacc;2688
-Steiermark;Pflichtschule;25 - 34;inaktiv;vacc + recov;735
-Steiermark;Pflichtschule;25 - 34;inaktiv;recov;1599
-Steiermark;Pflichtschule;25 - 34;inaktiv;nothing;2722
-Steiermark;Pflichtschule;35 - 44;aktiv;vacc;5767
-Steiermark;Pflichtschule;35 - 44;aktiv;vacc + recov;2225
-Steiermark;Pflichtschule;35 - 44;aktiv;recov;3190
-Steiermark;Pflichtschule;35 - 44;aktiv;nothing;3649
-Steiermark;Pflichtschule;35 - 44;inaktiv;vacc;2808
-Steiermark;Pflichtschule;35 - 44;inaktiv;vacc + recov;719
-Steiermark;Pflichtschule;35 - 44;inaktiv;recov;1257
-Steiermark;Pflichtschule;35 - 44;inaktiv;nothing;2290
-Steiermark;Pflichtschule;45 - 54;aktiv;vacc;8056
-Steiermark;Pflichtschule;45 - 54;aktiv;vacc + recov;2568
-Steiermark;Pflichtschule;45 - 54;aktiv;recov;2702
-Steiermark;Pflichtschule;45 - 54;aktiv;nothing;3424
-Steiermark;Pflichtschule;45 - 54;inaktiv;vacc;3985
-Steiermark;Pflichtschule;45 - 54;inaktiv;vacc + recov;729
-Steiermark;Pflichtschule;45 - 54;inaktiv;recov;875
-Steiermark;Pflichtschule;45 - 54;inaktiv;nothing;2045
-Steiermark;Pflichtschule;55 - 64;aktiv;vacc;6950
-Steiermark;Pflichtschule;55 - 64;aktiv;vacc + recov;1864
-Steiermark;Pflichtschule;55 - 64;aktiv;recov;1425
-Steiermark;Pflichtschule;55 - 64;aktiv;nothing;2051
-Steiermark;Pflichtschule;55 - 64;inaktiv;vacc;11400
-Steiermark;Pflichtschule;55 - 64;inaktiv;vacc + recov;1799
-Steiermark;Pflichtschule;55 - 64;inaktiv;recov;1419
-Steiermark;Pflichtschule;55 - 64;inaktiv;nothing;3401
-Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;vacc;18993
-Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;9300
-Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;recov;13637
-Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;nothing;10592
-Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;3856
-Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;1340
-Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;recov;3001
-Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;3189
-Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;vacc;25012
-Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;12728
-Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;recov;14302
-Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;nothing;10675
-Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;3552
-Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;1141
-Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;recov;1912
-Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;2472
-Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;vacc;41974
-Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;16924
-Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;recov;12933
-Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;nothing;12040
-Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;6736
-Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;1365
-Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;recov;1744
-Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;2886
-Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;vacc;35994
-Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;11831
-Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;recov;6528
-Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;nothing;7728
-Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;35118
-Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;6577
-Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;recov;3965
-Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;7659
-Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;11781
-Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;7526
-Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;recov;5429
-Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;3852
-Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;2885
-Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;1199
-Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;1320
-Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;1629
-Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;10354
-Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;6574
-Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;recov;4580
-Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;3235
-Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;1440
-Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;536
-Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;727
-Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;840
-Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;11248
-Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;5605
-Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;recov;2820
-Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;2450
-Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;1340
-Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;286
-Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;365
-Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;666
-Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;8261
-Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;3014
-Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;recov;1174
-Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;1424
-Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;4068
-Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;781
-Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;433
-Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;952
-Steiermark;Akademie/Hochschule;25 - 34;aktiv;vacc;12933
-Steiermark;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;10405
-Steiermark;Akademie/Hochschule;25 - 34;aktiv;recov;3779
-Steiermark;Akademie/Hochschule;25 - 34;aktiv;nothing;2651
-Steiermark;Akademie/Hochschule;25 - 34;inaktiv;vacc;2646
-Steiermark;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;1196
-Steiermark;Akademie/Hochschule;25 - 34;inaktiv;recov;921
-Steiermark;Akademie/Hochschule;25 - 34;inaktiv;nothing;1223
-Steiermark;Akademie/Hochschule;35 - 44;aktiv;vacc;13735
-Steiermark;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;10394
-Steiermark;Akademie/Hochschule;35 - 44;aktiv;recov;3953
-Steiermark;Akademie/Hochschule;35 - 44;aktiv;nothing;2744
-Steiermark;Akademie/Hochschule;35 - 44;inaktiv;vacc;1801
-Steiermark;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;827
-Steiermark;Akademie/Hochschule;35 - 44;inaktiv;recov;718
-Steiermark;Akademie/Hochschule;35 - 44;inaktiv;nothing;857
-Steiermark;Akademie/Hochschule;45 - 54;aktiv;vacc;12967
-Steiermark;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;7375
-Steiermark;Akademie/Hochschule;45 - 54;aktiv;recov;2421
-Steiermark;Akademie/Hochschule;45 - 54;aktiv;nothing;2190
-Steiermark;Akademie/Hochschule;45 - 54;inaktiv;vacc;974
-Steiermark;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;244
-Steiermark;Akademie/Hochschule;45 - 54;inaktiv;recov;235
-Steiermark;Akademie/Hochschule;45 - 54;inaktiv;nothing;470
-Steiermark;Akademie/Hochschule;55 - 64;aktiv;vacc;11083
-Steiermark;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;4663
-Steiermark;Akademie/Hochschule;55 - 64;aktiv;recov;1114
-Steiermark;Akademie/Hochschule;55 - 64;aktiv;nothing;1337
-Steiermark;Akademie/Hochschule;55 - 64;inaktiv;vacc;3126
-Steiermark;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;714
-Steiermark;Akademie/Hochschule;55 - 64;inaktiv;recov;313
-Steiermark;Akademie/Hochschule;55 - 64;inaktiv;nothing;668
-Steiermark;N/A;25 - 34;aktiv;vacc;8
-Steiermark;N/A;25 - 34;aktiv;vacc + recov;1
-Steiermark;N/A;25 - 34;aktiv;recov;9
-Steiermark;N/A;25 - 34;aktiv;nothing;14
-Steiermark;N/A;25 - 34;inaktiv;vacc;29
-Steiermark;N/A;25 - 34;inaktiv;vacc + recov;3
-Steiermark;N/A;25 - 34;inaktiv;recov;11
-Steiermark;N/A;25 - 34;inaktiv;nothing;32
-Steiermark;N/A;35 - 44;aktiv;vacc;8
-Steiermark;N/A;35 - 44;aktiv;vacc + recov;1
-Steiermark;N/A;35 - 44;aktiv;recov;5
-Steiermark;N/A;35 - 44;aktiv;nothing;8
-Steiermark;N/A;35 - 44;inaktiv;vacc;17
-Steiermark;N/A;35 - 44;inaktiv;vacc + recov;3
-Steiermark;N/A;35 - 44;inaktiv;recov;3
-Steiermark;N/A;35 - 44;inaktiv;nothing;15
-Steiermark;N/A;45 - 54;aktiv;vacc;9
-Steiermark;N/A;45 - 54;aktiv;vacc + recov;1
-Steiermark;N/A;45 - 54;aktiv;nothing;9
-Steiermark;N/A;45 - 54;inaktiv;vacc;12
-Steiermark;N/A;45 - 54;inaktiv;recov;3
-Steiermark;N/A;45 - 54;inaktiv;nothing;13
-Steiermark;N/A;55 - 64;aktiv;vacc;3
-Steiermark;N/A;55 - 64;aktiv;vacc + recov;1
-Steiermark;N/A;55 - 64;aktiv;nothing;3
-Steiermark;N/A;55 - 64;inaktiv;vacc;8
-Steiermark;N/A;55 - 64;inaktiv;vacc + recov;1
-Steiermark;N/A;55 - 64;inaktiv;nothing;7
-Tirol;Pflichtschule;25 - 34;aktiv;vacc;3381
-Tirol;Pflichtschule;25 - 34;aktiv;vacc + recov;1334
-Tirol;Pflichtschule;25 - 34;aktiv;recov;2358
-Tirol;Pflichtschule;25 - 34;aktiv;nothing;2603
-Tirol;Pflichtschule;25 - 34;inaktiv;vacc;1321
-Tirol;Pflichtschule;25 - 34;inaktiv;vacc + recov;372
-Tirol;Pflichtschule;25 - 34;inaktiv;recov;834
-Tirol;Pflichtschule;25 - 34;inaktiv;nothing;1369
-Tirol;Pflichtschule;35 - 44;aktiv;vacc;4516
-Tirol;Pflichtschule;35 - 44;aktiv;vacc + recov;1807
-Tirol;Pflichtschule;35 - 44;aktiv;recov;2357
-Tirol;Pflichtschule;35 - 44;aktiv;nothing;2503
-Tirol;Pflichtschule;35 - 44;inaktiv;vacc;1346
-Tirol;Pflichtschule;35 - 44;inaktiv;vacc + recov;382
-Tirol;Pflichtschule;35 - 44;inaktiv;recov;665
-Tirol;Pflichtschule;35 - 44;inaktiv;nothing;1036
-Tirol;Pflichtschule;45 - 54;aktiv;vacc;6684
-Tirol;Pflichtschule;45 - 54;aktiv;vacc + recov;2213
-Tirol;Pflichtschule;45 - 54;aktiv;recov;2125
-Tirol;Pflichtschule;45 - 54;aktiv;nothing;2492
-Tirol;Pflichtschule;45 - 54;inaktiv;vacc;1878
-Tirol;Pflichtschule;45 - 54;inaktiv;vacc + recov;421
-Tirol;Pflichtschule;45 - 54;inaktiv;recov;487
-Tirol;Pflichtschule;45 - 54;inaktiv;nothing;992
-Tirol;Pflichtschule;55 - 64;aktiv;vacc;6048
-Tirol;Pflichtschule;55 - 64;aktiv;vacc + recov;1676
-Tirol;Pflichtschule;55 - 64;aktiv;recov;1203
-Tirol;Pflichtschule;55 - 64;aktiv;nothing;1831
-Tirol;Pflichtschule;55 - 64;inaktiv;vacc;6548
-Tirol;Pflichtschule;55 - 64;inaktiv;vacc + recov;1215
-Tirol;Pflichtschule;55 - 64;inaktiv;recov;931
-Tirol;Pflichtschule;55 - 64;inaktiv;nothing;2082
-Tirol;Lehrabschluss/BMS;25 - 34;aktiv;vacc;13239
-Tirol;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;6606
-Tirol;Lehrabschluss/BMS;25 - 34;aktiv;recov;9116
-Tirol;Lehrabschluss/BMS;25 - 34;aktiv;nothing;7373
-Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;2279
-Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;834
-Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;recov;2118
-Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;2006
-Tirol;Lehrabschluss/BMS;35 - 44;aktiv;vacc;16285
-Tirol;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;8886
-Tirol;Lehrabschluss/BMS;35 - 44;aktiv;recov;8995
-Tirol;Lehrabschluss/BMS;35 - 44;aktiv;nothing;7130
-Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;2078
-Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;851
-Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;recov;1287
-Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;1478
-Tirol;Lehrabschluss/BMS;45 - 54;aktiv;vacc;25183
-Tirol;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;10503
-Tirol;Lehrabschluss/BMS;45 - 54;aktiv;recov;7732
-Tirol;Lehrabschluss/BMS;45 - 54;aktiv;nothing;7352
-Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;2922
-Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;713
-Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;recov;852
-Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;1373
-Tirol;Lehrabschluss/BMS;55 - 64;aktiv;vacc;23019
-Tirol;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;7668
-Tirol;Lehrabschluss/BMS;55 - 64;aktiv;recov;4161
-Tirol;Lehrabschluss/BMS;55 - 64;aktiv;nothing;5349
-Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;14677
-Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;3180
-Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;recov;1813
-Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;3490
-Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;6290
-Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;4212
-Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;recov;3090
-Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;2284
-Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;1501
-Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;676
-Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;780
-Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;1038
-Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;5332
-Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;3514
-Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;recov;2310
-Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;1785
-Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;707
-Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;348
-Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;413
-Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;469
-Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;5892
-Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;3012
-Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;recov;1579
-Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;1443
-Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;588
-Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;172
-Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;131
-Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;273
-Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;4651
-Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;1763
-Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;recov;663
-Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;891
-Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;1799
-Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;465
-Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;201
-Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;446
-Tirol;Akademie/Hochschule;25 - 34;aktiv;vacc;7336
-Tirol;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;5947
-Tirol;Akademie/Hochschule;25 - 34;aktiv;recov;2417
-Tirol;Akademie/Hochschule;25 - 34;aktiv;nothing;1702
-Tirol;Akademie/Hochschule;25 - 34;inaktiv;vacc;1534
-Tirol;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;741
-Tirol;Akademie/Hochschule;25 - 34;inaktiv;recov;691
-Tirol;Akademie/Hochschule;25 - 34;inaktiv;nothing;1061
-Tirol;Akademie/Hochschule;35 - 44;aktiv;vacc;7690
-Tirol;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;5986
-Tirol;Akademie/Hochschule;35 - 44;aktiv;recov;2336
-Tirol;Akademie/Hochschule;35 - 44;aktiv;nothing;1889
-Tirol;Akademie/Hochschule;35 - 44;inaktiv;vacc;1072
-Tirol;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;557
-Tirol;Akademie/Hochschule;35 - 44;inaktiv;recov;486
-Tirol;Akademie/Hochschule;35 - 44;inaktiv;nothing;498
-Tirol;Akademie/Hochschule;45 - 54;aktiv;vacc;7520
-Tirol;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;4677
-Tirol;Akademie/Hochschule;45 - 54;aktiv;recov;1646
-Tirol;Akademie/Hochschule;45 - 54;aktiv;nothing;1586
-Tirol;Akademie/Hochschule;45 - 54;inaktiv;vacc;526
-Tirol;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;177
-Tirol;Akademie/Hochschule;45 - 54;inaktiv;recov;142
-Tirol;Akademie/Hochschule;45 - 54;inaktiv;nothing;283
-Tirol;Akademie/Hochschule;55 - 64;aktiv;vacc;6715
-Tirol;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;2895
-Tirol;Akademie/Hochschule;55 - 64;aktiv;recov;766
-Tirol;Akademie/Hochschule;55 - 64;aktiv;nothing;968
-Tirol;Akademie/Hochschule;55 - 64;inaktiv;vacc;1396
-Tirol;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;314
-Tirol;Akademie/Hochschule;55 - 64;inaktiv;recov;100
-Tirol;Akademie/Hochschule;55 - 64;inaktiv;nothing;350
-Tirol;N/A;25 - 34;aktiv;vacc;20
-Tirol;N/A;25 - 34;aktiv;vacc + recov;7
-Tirol;N/A;25 - 34;aktiv;recov;12
-Tirol;N/A;25 - 34;aktiv;nothing;19
-Tirol;N/A;25 - 34;inaktiv;vacc;12
-Tirol;N/A;25 - 34;inaktiv;vacc + recov;2
-Tirol;N/A;25 - 34;inaktiv;recov;10
-Tirol;N/A;25 - 34;inaktiv;nothing;20
-Tirol;N/A;35 - 44;aktiv;vacc;9
-Tirol;N/A;35 - 44;aktiv;vacc + recov;2
-Tirol;N/A;35 - 44;aktiv;recov;8
-Tirol;N/A;35 - 44;aktiv;nothing;7
-Tirol;N/A;35 - 44;inaktiv;vacc;3
-Tirol;N/A;35 - 44;inaktiv;vacc + recov;2
-Tirol;N/A;35 - 44;inaktiv;recov;3
-Tirol;N/A;35 - 44;inaktiv;nothing;6
-Tirol;N/A;45 - 54;aktiv;vacc;6
-Tirol;N/A;45 - 54;aktiv;recov;1
-Tirol;N/A;45 - 54;aktiv;nothing;3
-Tirol;N/A;45 - 54;inaktiv;vacc;12
-Tirol;N/A;45 - 54;inaktiv;vacc + recov;2
-Tirol;N/A;45 - 54;inaktiv;recov;1
-Tirol;N/A;45 - 54;inaktiv;nothing;6
-Tirol;N/A;55 - 64;aktiv;vacc;2
-Tirol;N/A;55 - 64;aktiv;vacc + recov;2
-Tirol;N/A;55 - 64;aktiv;nothing;5
-Tirol;N/A;55 - 64;inaktiv;vacc;9
-Tirol;N/A;55 - 64;inaktiv;recov;3
-Tirol;N/A;55 - 64;inaktiv;nothing;5
-Vorarlberg;Pflichtschule;25 - 34;aktiv;vacc;1851
-Vorarlberg;Pflichtschule;25 - 34;aktiv;vacc + recov;831
-Vorarlberg;Pflichtschule;25 - 34;aktiv;recov;1320
-Vorarlberg;Pflichtschule;25 - 34;aktiv;nothing;1525
-Vorarlberg;Pflichtschule;25 - 34;inaktiv;vacc;757
-Vorarlberg;Pflichtschule;25 - 34;inaktiv;vacc + recov;252
-Vorarlberg;Pflichtschule;25 - 34;inaktiv;recov;644
-Vorarlberg;Pflichtschule;25 - 34;inaktiv;nothing;973
-Vorarlberg;Pflichtschule;35 - 44;aktiv;vacc;2700
-Vorarlberg;Pflichtschule;35 - 44;aktiv;vacc + recov;1245
-Vorarlberg;Pflichtschule;35 - 44;aktiv;recov;1558
-Vorarlberg;Pflichtschule;35 - 44;aktiv;nothing;1565
-Vorarlberg;Pflichtschule;35 - 44;inaktiv;vacc;874
-Vorarlberg;Pflichtschule;35 - 44;inaktiv;vacc + recov;301
-Vorarlberg;Pflichtschule;35 - 44;inaktiv;recov;572
-Vorarlberg;Pflichtschule;35 - 44;inaktiv;nothing;786
-Vorarlberg;Pflichtschule;45 - 54;aktiv;vacc;3863
-Vorarlberg;Pflichtschule;45 - 54;aktiv;vacc + recov;1434
-Vorarlberg;Pflichtschule;45 - 54;aktiv;recov;1342
-Vorarlberg;Pflichtschule;45 - 54;aktiv;nothing;1556
-Vorarlberg;Pflichtschule;45 - 54;inaktiv;vacc;1330
-Vorarlberg;Pflichtschule;45 - 54;inaktiv;vacc + recov;282
-Vorarlberg;Pflichtschule;45 - 54;inaktiv;recov;390
-Vorarlberg;Pflichtschule;45 - 54;inaktiv;nothing;751
-Vorarlberg;Pflichtschule;55 - 64;aktiv;vacc;3111
-Vorarlberg;Pflichtschule;55 - 64;aktiv;vacc + recov;971
-Vorarlberg;Pflichtschule;55 - 64;aktiv;recov;625
-Vorarlberg;Pflichtschule;55 - 64;aktiv;nothing;994
-Vorarlberg;Pflichtschule;55 - 64;inaktiv;vacc;3651
-Vorarlberg;Pflichtschule;55 - 64;inaktiv;vacc + recov;707
-Vorarlberg;Pflichtschule;55 - 64;inaktiv;recov;492
-Vorarlberg;Pflichtschule;55 - 64;inaktiv;nothing;1463
-Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;vacc;6210
-Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;3767
-Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;recov;4825
-Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;nothing;3942
-Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;1052
-Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;493
-Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;recov;1100
-Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;1174
-Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;vacc;7834
-Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;4812
-Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;recov;4716
-Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;nothing;3767
-Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;1026
-Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;475
-Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;recov;735
-Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;845
-Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;vacc;12224
-Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;5893
-Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;recov;3904
-Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;nothing;4015
-Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;1452
-Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;385
-Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;recov;445
-Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;790
-Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;vacc;11471
-Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;4413
-Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;recov;2073
-Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;nothing;2648
-Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;6750
-Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;1475
-Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;recov;893
-Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;1900
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;2711
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;2174
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;recov;1375
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;993
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;677
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;354
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;414
-Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;429
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;2608
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;1991
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;recov;1180
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;933
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;405
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;219
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;262
-Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;286
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;2793
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;1625
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;recov;785
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;746
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;318
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;98
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;102
-Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;146
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;2277
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;955
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;recov;343
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;431
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;886
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;231
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;94
-Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;232
-Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;vacc;2657
-Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;2344
-Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;recov;848
-Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;nothing;580
-Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;vacc;651
-Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;344
-Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;recov;265
-Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;nothing;319
-Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;vacc;3386
-Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;2877
-Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;recov;1103
-Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;nothing;878
-Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;vacc;562
-Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;282
-Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;recov;283
-Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;nothing;288
-Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;vacc;3624
-Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;2364
-Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;recov;742
-Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;nothing;707
-Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;vacc;301
-Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;113
-Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;recov;99
-Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;nothing;134
-Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;vacc;3168
-Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;1593
-Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;recov;350
-Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;nothing;446
-Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;vacc;766
-Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;228
-Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;recov;58
-Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;nothing;202
-Vorarlberg;N/A;25 - 34;aktiv;vacc;7
-Vorarlberg;N/A;25 - 34;aktiv;vacc + recov;4
-Vorarlberg;N/A;25 - 34;aktiv;recov;4
-Vorarlberg;N/A;25 - 34;aktiv;nothing;9
-Vorarlberg;N/A;25 - 34;inaktiv;vacc;17
-Vorarlberg;N/A;25 - 34;inaktiv;vacc + recov;5
-Vorarlberg;N/A;25 - 34;inaktiv;recov;5
-Vorarlberg;N/A;25 - 34;inaktiv;nothing;16
-Vorarlberg;N/A;35 - 44;aktiv;vacc;7
-Vorarlberg;N/A;35 - 44;aktiv;vacc + recov;1
-Vorarlberg;N/A;35 - 44;aktiv;recov;3
-Vorarlberg;N/A;35 - 44;aktiv;nothing;7
-Vorarlberg;N/A;35 - 44;inaktiv;vacc;6
-Vorarlberg;N/A;35 - 44;inaktiv;vacc + recov;3
-Vorarlberg;N/A;35 - 44;inaktiv;recov;1
-Vorarlberg;N/A;35 - 44;inaktiv;nothing;6
-Vorarlberg;N/A;45 - 54;aktiv;vacc;3
-Vorarlberg;N/A;45 - 54;aktiv;recov;3
-Vorarlberg;N/A;45 - 54;aktiv;nothing;2
-Vorarlberg;N/A;45 - 54;inaktiv;vacc;3
-Vorarlberg;N/A;45 - 54;inaktiv;vacc + recov;2
-Vorarlberg;N/A;45 - 54;inaktiv;recov;1
-Vorarlberg;N/A;45 - 54;inaktiv;nothing;5
-Vorarlberg;N/A;55 - 64;aktiv;vacc;3
-Vorarlberg;N/A;55 - 64;aktiv;recov;2
-Vorarlberg;N/A;55 - 64;aktiv;nothing;1
-Vorarlberg;N/A;55 - 64;inaktiv;vacc;5
-Vorarlberg;N/A;55 - 64;inaktiv;nothing;4
-Wien;Pflichtschule;25 - 34;aktiv;vacc;9545
-Wien;Pflichtschule;25 - 34;aktiv;vacc + recov;4629
-Wien;Pflichtschule;25 - 34;aktiv;recov;6577
-Wien;Pflichtschule;25 - 34;aktiv;nothing;7183
-Wien;Pflichtschule;25 - 34;inaktiv;vacc;7644
-Wien;Pflichtschule;25 - 34;inaktiv;vacc + recov;2442
-Wien;Pflichtschule;25 - 34;inaktiv;recov;6171
-Wien;Pflichtschule;25 - 34;inaktiv;nothing;8684
-Wien;Pflichtschule;35 - 44;aktiv;vacc;12535
-Wien;Pflichtschule;35 - 44;aktiv;vacc + recov;6336
-Wien;Pflichtschule;35 - 44;aktiv;recov;7634
-Wien;Pflichtschule;35 - 44;aktiv;nothing;7179
-Wien;Pflichtschule;35 - 44;inaktiv;vacc;7720
-Wien;Pflichtschule;35 - 44;inaktiv;vacc + recov;2648
-Wien;Pflichtschule;35 - 44;inaktiv;recov;5211
-Wien;Pflichtschule;35 - 44;inaktiv;nothing;7032
-Wien;Pflichtschule;45 - 54;aktiv;vacc;15502
-Wien;Pflichtschule;45 - 54;aktiv;vacc + recov;6507
-Wien;Pflichtschule;45 - 54;aktiv;recov;5968
-Wien;Pflichtschule;45 - 54;aktiv;nothing;6858
-Wien;Pflichtschule;45 - 54;inaktiv;vacc;8932
-Wien;Pflichtschule;45 - 54;inaktiv;vacc + recov;2371
-Wien;Pflichtschule;45 - 54;inaktiv;recov;3714
-Wien;Pflichtschule;45 - 54;inaktiv;nothing;6223
-Wien;Pflichtschule;55 - 64;aktiv;vacc;11060
-Wien;Pflichtschule;55 - 64;aktiv;vacc + recov;3755
-Wien;Pflichtschule;55 - 64;aktiv;recov;2246
-Wien;Pflichtschule;55 - 64;aktiv;nothing;3665
-Wien;Pflichtschule;55 - 64;inaktiv;vacc;16004
-Wien;Pflichtschule;55 - 64;inaktiv;vacc + recov;3366
-Wien;Pflichtschule;55 - 64;inaktiv;recov;2993
-Wien;Pflichtschule;55 - 64;inaktiv;nothing;7866
-Wien;Lehrabschluss/BMS;25 - 34;aktiv;vacc;18194
-Wien;Lehrabschluss/BMS;25 - 34;aktiv;vacc + recov;11410
-Wien;Lehrabschluss/BMS;25 - 34;aktiv;recov;10949
-Wien;Lehrabschluss/BMS;25 - 34;aktiv;nothing;8621
-Wien;Lehrabschluss/BMS;25 - 34;inaktiv;vacc;5359
-Wien;Lehrabschluss/BMS;25 - 34;inaktiv;vacc + recov;2052
-Wien;Lehrabschluss/BMS;25 - 34;inaktiv;recov;4340
-Wien;Lehrabschluss/BMS;25 - 34;inaktiv;nothing;5238
-Wien;Lehrabschluss/BMS;35 - 44;aktiv;vacc;21010
-Wien;Lehrabschluss/BMS;35 - 44;aktiv;vacc + recov;12464
-Wien;Lehrabschluss/BMS;35 - 44;aktiv;recov;10437
-Wien;Lehrabschluss/BMS;35 - 44;aktiv;nothing;8397
-Wien;Lehrabschluss/BMS;35 - 44;inaktiv;vacc;5734
-Wien;Lehrabschluss/BMS;35 - 44;inaktiv;vacc + recov;1970
-Wien;Lehrabschluss/BMS;35 - 44;inaktiv;recov;3362
-Wien;Lehrabschluss/BMS;35 - 44;inaktiv;nothing;4521
-Wien;Lehrabschluss/BMS;45 - 54;aktiv;vacc;31778
-Wien;Lehrabschluss/BMS;45 - 54;aktiv;vacc + recov;14970
-Wien;Lehrabschluss/BMS;45 - 54;aktiv;recov;8551
-Wien;Lehrabschluss/BMS;45 - 54;aktiv;nothing;8615
-Wien;Lehrabschluss/BMS;45 - 54;inaktiv;vacc;8570
-Wien;Lehrabschluss/BMS;45 - 54;inaktiv;vacc + recov;2075
-Wien;Lehrabschluss/BMS;45 - 54;inaktiv;recov;2421
-Wien;Lehrabschluss/BMS;45 - 54;inaktiv;nothing;4666
-Wien;Lehrabschluss/BMS;55 - 64;aktiv;vacc;29811
-Wien;Lehrabschluss/BMS;55 - 64;aktiv;vacc + recov;11398
-Wien;Lehrabschluss/BMS;55 - 64;aktiv;recov;3926
-Wien;Lehrabschluss/BMS;55 - 64;aktiv;nothing;5723
-Wien;Lehrabschluss/BMS;55 - 64;inaktiv;vacc;27251
-Wien;Lehrabschluss/BMS;55 - 64;inaktiv;vacc + recov;5871
-Wien;Lehrabschluss/BMS;55 - 64;inaktiv;recov;2624
-Wien;Lehrabschluss/BMS;55 - 64;inaktiv;nothing;8013
-Wien;BHS/AHS/Kolleg;25 - 34;aktiv;vacc;21070
-Wien;BHS/AHS/Kolleg;25 - 34;aktiv;vacc + recov;16730
-Wien;BHS/AHS/Kolleg;25 - 34;aktiv;recov;8523
-Wien;BHS/AHS/Kolleg;25 - 34;aktiv;nothing;6288
-Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc;6930
-Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;vacc + recov;3649
-Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;recov;3785
-Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;nothing;5130
-Wien;BHS/AHS/Kolleg;35 - 44;aktiv;vacc;16955
-Wien;BHS/AHS/Kolleg;35 - 44;aktiv;vacc + recov;11810
-Wien;BHS/AHS/Kolleg;35 - 44;aktiv;recov;5867
-Wien;BHS/AHS/Kolleg;35 - 44;aktiv;nothing;4687
-Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc;4328
-Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;vacc + recov;1812
-Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;recov;2261
-Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;nothing;2787
-Wien;BHS/AHS/Kolleg;45 - 54;aktiv;vacc;18888
-Wien;BHS/AHS/Kolleg;45 - 54;aktiv;vacc + recov;10594
-Wien;BHS/AHS/Kolleg;45 - 54;aktiv;recov;4065
-Wien;BHS/AHS/Kolleg;45 - 54;aktiv;nothing;3786
-Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc;3864
-Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;vacc + recov;1193
-Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;recov;1228
-Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;nothing;2059
-Wien;BHS/AHS/Kolleg;55 - 64;aktiv;vacc;16222
-Wien;BHS/AHS/Kolleg;55 - 64;aktiv;vacc + recov;6723
-Wien;BHS/AHS/Kolleg;55 - 64;aktiv;recov;1930
-Wien;BHS/AHS/Kolleg;55 - 64;aktiv;nothing;2603
-Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc;9049
-Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;vacc + recov;2216
-Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;recov;1019
-Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;nothing;2758
-Wien;Akademie/Hochschule;25 - 34;aktiv;vacc;32824
-Wien;Akademie/Hochschule;25 - 34;aktiv;vacc + recov;31498
-Wien;Akademie/Hochschule;25 - 34;aktiv;recov;7803
-Wien;Akademie/Hochschule;25 - 34;aktiv;nothing;5940
-Wien;Akademie/Hochschule;25 - 34;inaktiv;vacc;7126
-Wien;Akademie/Hochschule;25 - 34;inaktiv;vacc + recov;4410
-Wien;Akademie/Hochschule;25 - 34;inaktiv;recov;2966
-Wien;Akademie/Hochschule;25 - 34;inaktiv;nothing;4582
-Wien;Akademie/Hochschule;35 - 44;aktiv;vacc;34115
-Wien;Akademie/Hochschule;35 - 44;aktiv;vacc + recov;28331
-Wien;Akademie/Hochschule;35 - 44;aktiv;recov;7452
-Wien;Akademie/Hochschule;35 - 44;aktiv;nothing;5896
-Wien;Akademie/Hochschule;35 - 44;inaktiv;vacc;6219
-Wien;Akademie/Hochschule;35 - 44;inaktiv;vacc + recov;3428
-Wien;Akademie/Hochschule;35 - 44;inaktiv;recov;2294
-Wien;Akademie/Hochschule;35 - 44;inaktiv;nothing;2930
-Wien;Akademie/Hochschule;45 - 54;aktiv;vacc;29278
-Wien;Akademie/Hochschule;45 - 54;aktiv;vacc + recov;19633
-Wien;Akademie/Hochschule;45 - 54;aktiv;recov;4655
-Wien;Akademie/Hochschule;45 - 54;aktiv;nothing;4166
-Wien;Akademie/Hochschule;45 - 54;inaktiv;vacc;3569
-Wien;Akademie/Hochschule;45 - 54;inaktiv;vacc + recov;1379
-Wien;Akademie/Hochschule;45 - 54;inaktiv;recov;1039
-Wien;Akademie/Hochschule;45 - 54;inaktiv;nothing;1815
-Wien;Akademie/Hochschule;55 - 64;aktiv;vacc;23415
-Wien;Akademie/Hochschule;55 - 64;aktiv;vacc + recov;10999
-Wien;Akademie/Hochschule;55 - 64;aktiv;recov;2010
-Wien;Akademie/Hochschule;55 - 64;aktiv;nothing;2799
-Wien;Akademie/Hochschule;55 - 64;inaktiv;vacc;6983
-Wien;Akademie/Hochschule;55 - 64;inaktiv;vacc + recov;1883
-Wien;Akademie/Hochschule;55 - 64;inaktiv;recov;762
-Wien;Akademie/Hochschule;55 - 64;inaktiv;nothing;2089
-Wien;N/A;25 - 34;aktiv;vacc;38
-Wien;N/A;25 - 34;aktiv;vacc + recov;20
-Wien;N/A;25 - 34;aktiv;recov;13
-Wien;N/A;25 - 34;aktiv;nothing;29
-Wien;N/A;25 - 34;inaktiv;vacc;73
-Wien;N/A;25 - 34;inaktiv;vacc + recov;20
-Wien;N/A;25 - 34;inaktiv;recov;38
-Wien;N/A;25 - 34;inaktiv;nothing;91
-Wien;N/A;35 - 44;aktiv;vacc;21
-Wien;N/A;35 - 44;aktiv;vacc + recov;6
-Wien;N/A;35 - 44;aktiv;recov;8
-Wien;N/A;35 - 44;aktiv;nothing;17
-Wien;N/A;35 - 44;inaktiv;vacc;46
-Wien;N/A;35 - 44;inaktiv;vacc + recov;15
-Wien;N/A;35 - 44;inaktiv;recov;23
-Wien;N/A;35 - 44;inaktiv;nothing;47
-Wien;N/A;45 - 54;aktiv;vacc;13
-Wien;N/A;45 - 54;aktiv;vacc + recov;5
-Wien;N/A;45 - 54;aktiv;recov;2
-Wien;N/A;45 - 54;aktiv;nothing;18
-Wien;N/A;45 - 54;inaktiv;vacc;37
-Wien;N/A;45 - 54;inaktiv;vacc + recov;6
-Wien;N/A;45 - 54;inaktiv;recov;12
-Wien;N/A;45 - 54;inaktiv;nothing;44
-Wien;N/A;55 - 64;aktiv;vacc;5
-Wien;N/A;55 - 64;aktiv;vacc + recov;2
-Wien;N/A;55 - 64;aktiv;recov;1
-Wien;N/A;55 - 64;aktiv;nothing;14
-Wien;N/A;55 - 64;inaktiv;vacc;31
-Wien;N/A;55 - 64;inaktiv;vacc + recov;1
-Wien;N/A;55 - 64;inaktiv;recov;4
-Wien;N/A;55 - 64;inaktiv;nothing;16
+Burgenland;Pflichtschule;25 - 34;aktiv;IMPF;611
+Burgenland;Pflichtschule;25 - 34;aktiv;IMPF + GEN;285
+Burgenland;Pflichtschule;25 - 34;aktiv;GEN;396
+Burgenland;Pflichtschule;25 - 34;aktiv;NICHTS;472
+Burgenland;Pflichtschule;25 - 34;inaktiv;IMPF;471
+Burgenland;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;173
+Burgenland;Pflichtschule;25 - 34;inaktiv;GEN;303
+Burgenland;Pflichtschule;25 - 34;inaktiv;NICHTS;456
+Burgenland;Pflichtschule;35 - 44;aktiv;IMPF;1170
+Burgenland;Pflichtschule;35 - 44;aktiv;IMPF + GEN;597
+Burgenland;Pflichtschule;35 - 44;aktiv;GEN;532
+Burgenland;Pflichtschule;35 - 44;aktiv;NICHTS;531
+Burgenland;Pflichtschule;35 - 44;inaktiv;IMPF;549
+Burgenland;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;199
+Burgenland;Pflichtschule;35 - 44;inaktiv;GEN;253
+Burgenland;Pflichtschule;35 - 44;inaktiv;NICHTS;425
+Burgenland;Pflichtschule;45 - 54;aktiv;IMPF;2010
+Burgenland;Pflichtschule;45 - 54;aktiv;IMPF + GEN;932
+Burgenland;Pflichtschule;45 - 54;aktiv;GEN;575
+Burgenland;Pflichtschule;45 - 54;aktiv;NICHTS;688
+Burgenland;Pflichtschule;45 - 54;inaktiv;IMPF;835
+Burgenland;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;206
+Burgenland;Pflichtschule;45 - 54;inaktiv;GEN;188
+Burgenland;Pflichtschule;45 - 54;inaktiv;NICHTS;421
+Burgenland;Pflichtschule;55 - 64;aktiv;IMPF;2023
+Burgenland;Pflichtschule;55 - 64;aktiv;IMPF + GEN;787
+Burgenland;Pflichtschule;55 - 64;aktiv;GEN;239
+Burgenland;Pflichtschule;55 - 64;aktiv;NICHTS;385
+Burgenland;Pflichtschule;55 - 64;inaktiv;IMPF;3781
+Burgenland;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;924
+Burgenland;Pflichtschule;55 - 64;inaktiv;GEN;275
+Burgenland;Pflichtschule;55 - 64;inaktiv;NICHTS;812
+Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;4194
+Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;2475
+Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;GEN;2177
+Burgenland;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;1828
+Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;868
+Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;341
+Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;505
+Burgenland;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;647
+Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;6354
+Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;3998
+Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;GEN;2712
+Burgenland;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;2185
+Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;979
+Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;358
+Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;510
+Burgenland;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;671
+Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;10611
+Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;5493
+Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;GEN;2350
+Burgenland;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;2273
+Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;1681
+Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;448
+Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;373
+Burgenland;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;728
+Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;9015
+Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;3759
+Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;GEN;1071
+Burgenland;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;1453
+Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;8581
+Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;2165
+Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;625
+Burgenland;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;1655
+Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;2300
+Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;1845
+Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;939
+Burgenland;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;596
+Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;505
+Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;277
+Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;231
+Burgenland;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;235
+Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;2646
+Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;2160
+Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;1015
+Burgenland;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;739
+Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;355
+Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;178
+Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;199
+Burgenland;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;237
+Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;3459
+Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;2025
+Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;711
+Burgenland;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;651
+Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;345
+Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;110
+Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;102
+Burgenland;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;174
+Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;2541
+Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;1040
+Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;289
+Burgenland;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;400
+Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;1292
+Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;346
+Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;111
+Burgenland;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;342
+Burgenland;Akademie/Hochschule;25 - 34;aktiv;IMPF;2074
+Burgenland;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;1872
+Burgenland;Akademie/Hochschule;25 - 34;aktiv;GEN;567
+Burgenland;Akademie/Hochschule;25 - 34;aktiv;NICHTS;358
+Burgenland;Akademie/Hochschule;25 - 34;inaktiv;IMPF;387
+Burgenland;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;226
+Burgenland;Akademie/Hochschule;25 - 34;inaktiv;GEN;170
+Burgenland;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;139
+Burgenland;Akademie/Hochschule;35 - 44;aktiv;IMPF;2558
+Burgenland;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;2336
+Burgenland;Akademie/Hochschule;35 - 44;aktiv;GEN;759
+Burgenland;Akademie/Hochschule;35 - 44;aktiv;NICHTS;507
+Burgenland;Akademie/Hochschule;35 - 44;inaktiv;IMPF;353
+Burgenland;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;175
+Burgenland;Akademie/Hochschule;35 - 44;inaktiv;GEN;164
+Burgenland;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;206
+Burgenland;Akademie/Hochschule;45 - 54;aktiv;IMPF;2778
+Burgenland;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;1922
+Burgenland;Akademie/Hochschule;45 - 54;aktiv;GEN;498
+Burgenland;Akademie/Hochschule;45 - 54;aktiv;NICHTS;435
+Burgenland;Akademie/Hochschule;45 - 54;inaktiv;IMPF;203
+Burgenland;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;60
+Burgenland;Akademie/Hochschule;45 - 54;inaktiv;GEN;57
+Burgenland;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;98
+Burgenland;Akademie/Hochschule;55 - 64;aktiv;IMPF;2335
+Burgenland;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;1120
+Burgenland;Akademie/Hochschule;55 - 64;aktiv;GEN;216
+Burgenland;Akademie/Hochschule;55 - 64;aktiv;NICHTS;290
+Burgenland;Akademie/Hochschule;55 - 64;inaktiv;IMPF;619
+Burgenland;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;143
+Burgenland;Akademie/Hochschule;55 - 64;inaktiv;GEN;52
+Burgenland;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;162
+Burgenland;Unknown;25 - 34;aktiv;IMPF + GEN;3
+Burgenland;Unknown;25 - 34;aktiv;NICHTS;1
+Burgenland;Unknown;25 - 34;inaktiv;IMPF;8
+Burgenland;Unknown;25 - 34;inaktiv;GEN;1
+Burgenland;Unknown;25 - 34;inaktiv;NICHTS;4
+Burgenland;Unknown;35 - 44;aktiv;IMPF;3
+Burgenland;Unknown;35 - 44;aktiv;GEN;2
+Burgenland;Unknown;35 - 44;aktiv;NICHTS;2
+Burgenland;Unknown;35 - 44;inaktiv;IMPF;2
+Burgenland;Unknown;35 - 44;inaktiv;IMPF + GEN;1
+Burgenland;Unknown;35 - 44;inaktiv;GEN;2
+Burgenland;Unknown;35 - 44;inaktiv;NICHTS;6
+Burgenland;Unknown;45 - 54;aktiv;IMPF;1
+Burgenland;Unknown;45 - 54;aktiv;IMPF + GEN;1
+Burgenland;Unknown;45 - 54;aktiv;GEN;3
+Burgenland;Unknown;45 - 54;aktiv;NICHTS;1
+Burgenland;Unknown;45 - 54;inaktiv;IMPF;2
+Burgenland;Unknown;45 - 54;inaktiv;GEN;1
+Burgenland;Unknown;45 - 54;inaktiv;NICHTS;4
+Burgenland;Unknown;55 - 64;aktiv;NICHTS;1
+Burgenland;Unknown;55 - 64;inaktiv;IMPF;1
+Burgenland;Unknown;55 - 64;inaktiv;NICHTS;1
+Kärnten;Pflichtschule;25 - 34;aktiv;IMPF;1835
+Kärnten;Pflichtschule;25 - 34;aktiv;IMPF + GEN;534
+Kärnten;Pflichtschule;25 - 34;aktiv;GEN;1254
+Kärnten;Pflichtschule;25 - 34;aktiv;NICHTS;1620
+Kärnten;Pflichtschule;25 - 34;inaktiv;IMPF;1127
+Kärnten;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;271
+Kärnten;Pflichtschule;25 - 34;inaktiv;GEN;636
+Kärnten;Pflichtschule;25 - 34;inaktiv;NICHTS;1364
+Kärnten;Pflichtschule;35 - 44;aktiv;IMPF;2239
+Kärnten;Pflichtschule;35 - 44;aktiv;IMPF + GEN;728
+Kärnten;Pflichtschule;35 - 44;aktiv;GEN;1281
+Kärnten;Pflichtschule;35 - 44;aktiv;NICHTS;1484
+Kärnten;Pflichtschule;35 - 44;inaktiv;IMPF;1112
+Kärnten;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;248
+Kärnten;Pflichtschule;35 - 44;inaktiv;GEN;518
+Kärnten;Pflichtschule;35 - 44;inaktiv;NICHTS;1058
+Kärnten;Pflichtschule;45 - 54;aktiv;IMPF;2963
+Kärnten;Pflichtschule;45 - 54;aktiv;IMPF + GEN;786
+Kärnten;Pflichtschule;45 - 54;aktiv;GEN;928
+Kärnten;Pflichtschule;45 - 54;aktiv;NICHTS;1404
+Kärnten;Pflichtschule;45 - 54;inaktiv;IMPF;1640
+Kärnten;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;265
+Kärnten;Pflichtschule;45 - 54;inaktiv;GEN;380
+Kärnten;Pflichtschule;45 - 54;inaktiv;NICHTS;942
+Kärnten;Pflichtschule;55 - 64;aktiv;IMPF;2587
+Kärnten;Pflichtschule;55 - 64;aktiv;IMPF + GEN;590
+Kärnten;Pflichtschule;55 - 64;aktiv;GEN;520
+Kärnten;Pflichtschule;55 - 64;aktiv;NICHTS;921
+Kärnten;Pflichtschule;55 - 64;inaktiv;IMPF;4498
+Kärnten;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;632
+Kärnten;Pflichtschule;55 - 64;inaktiv;GEN;631
+Kärnten;Pflichtschule;55 - 64;inaktiv;NICHTS;1870
+Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;6997
+Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;2908
+Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;GEN;6148
+Kärnten;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;5612
+Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;1604
+Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;437
+Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;1520
+Kärnten;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;1860
+Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;9946
+Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;4335
+Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;GEN;6474
+Kärnten;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;6086
+Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;1822
+Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;438
+Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;1161
+Kärnten;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;1660
+Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;17969
+Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;6235
+Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;GEN;5773
+Kärnten;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;6747
+Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;3593
+Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;661
+Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;988
+Kärnten;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;2024
+Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;16305
+Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;4705
+Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;GEN;3183
+Kärnten;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;4590
+Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;16880
+Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;2846
+Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;2228
+Kärnten;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;5005
+Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;4023
+Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;2136
+Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;2370
+Kärnten;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;2119
+Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;943
+Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;350
+Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;624
+Kärnten;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;725
+Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;4360
+Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;2284
+Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;2336
+Kärnten;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;2038
+Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;565
+Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;191
+Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;347
+Kärnten;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;458
+Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;5305
+Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;2295
+Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;1492
+Kärnten;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;1595
+Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;633
+Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;144
+Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;173
+Kärnten;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;360
+Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;4377
+Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;1454
+Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;643
+Kärnten;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;982
+Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;2440
+Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;423
+Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;259
+Kärnten;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;629
+Kärnten;Akademie/Hochschule;25 - 34;aktiv;IMPF;3926
+Kärnten;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;2556
+Kärnten;Akademie/Hochschule;25 - 34;aktiv;GEN;1710
+Kärnten;Akademie/Hochschule;25 - 34;aktiv;NICHTS;1407
+Kärnten;Akademie/Hochschule;25 - 34;inaktiv;IMPF;793
+Kärnten;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;360
+Kärnten;Akademie/Hochschule;25 - 34;inaktiv;GEN;510
+Kärnten;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;556
+Kärnten;Akademie/Hochschule;35 - 44;aktiv;IMPF;5253
+Kärnten;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;3374
+Kärnten;Akademie/Hochschule;35 - 44;aktiv;GEN;2092
+Kärnten;Akademie/Hochschule;35 - 44;aktiv;NICHTS;1740
+Kärnten;Akademie/Hochschule;35 - 44;inaktiv;IMPF;681
+Kärnten;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;240
+Kärnten;Akademie/Hochschule;35 - 44;inaktiv;GEN;363
+Kärnten;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;472
+Kärnten;Akademie/Hochschule;45 - 54;aktiv;IMPF;5689
+Kärnten;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;2874
+Kärnten;Akademie/Hochschule;45 - 54;aktiv;GEN;1386
+Kärnten;Akademie/Hochschule;45 - 54;aktiv;NICHTS;1376
+Kärnten;Akademie/Hochschule;45 - 54;inaktiv;IMPF;501
+Kärnten;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;85
+Kärnten;Akademie/Hochschule;45 - 54;inaktiv;GEN;126
+Kärnten;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;275
+Kärnten;Akademie/Hochschule;55 - 64;aktiv;IMPF;5190
+Kärnten;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;2037
+Kärnten;Akademie/Hochschule;55 - 64;aktiv;GEN;614
+Kärnten;Akademie/Hochschule;55 - 64;aktiv;NICHTS;829
+Kärnten;Akademie/Hochschule;55 - 64;inaktiv;IMPF;1482
+Kärnten;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;299
+Kärnten;Akademie/Hochschule;55 - 64;inaktiv;GEN;163
+Kärnten;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;375
+Kärnten;Unknown;25 - 34;aktiv;IMPF;8
+Kärnten;Unknown;25 - 34;aktiv;IMPF + GEN;1
+Kärnten;Unknown;25 - 34;aktiv;GEN;2
+Kärnten;Unknown;25 - 34;aktiv;NICHTS;6
+Kärnten;Unknown;25 - 34;inaktiv;IMPF;8
+Kärnten;Unknown;25 - 34;inaktiv;IMPF + GEN;1
+Kärnten;Unknown;25 - 34;inaktiv;GEN;4
+Kärnten;Unknown;25 - 34;inaktiv;NICHTS;17
+Kärnten;Unknown;35 - 44;aktiv;IMPF;3
+Kärnten;Unknown;35 - 44;aktiv;IMPF + GEN;1
+Kärnten;Unknown;35 - 44;aktiv;GEN;1
+Kärnten;Unknown;35 - 44;aktiv;NICHTS;4
+Kärnten;Unknown;35 - 44;inaktiv;IMPF;8
+Kärnten;Unknown;35 - 44;inaktiv;IMPF + GEN;1
+Kärnten;Unknown;35 - 44;inaktiv;GEN;5
+Kärnten;Unknown;35 - 44;inaktiv;NICHTS;11
+Kärnten;Unknown;45 - 54;aktiv;IMPF;1
+Kärnten;Unknown;45 - 54;aktiv;IMPF + GEN;1
+Kärnten;Unknown;45 - 54;aktiv;GEN;2
+Kärnten;Unknown;45 - 54;aktiv;NICHTS;3
+Kärnten;Unknown;45 - 54;inaktiv;IMPF;5
+Kärnten;Unknown;45 - 54;inaktiv;NICHTS;1
+Kärnten;Unknown;55 - 64;aktiv;IMPF;1
+Kärnten;Unknown;55 - 64;aktiv;GEN;1
+Kärnten;Unknown;55 - 64;aktiv;NICHTS;2
+Kärnten;Unknown;55 - 64;inaktiv;IMPF;10
+Kärnten;Unknown;55 - 64;inaktiv;NICHTS;3
+Niederösterreich;Pflichtschule;25 - 34;aktiv;IMPF;5558
+Niederösterreich;Pflichtschule;25 - 34;aktiv;IMPF + GEN;2397
+Niederösterreich;Pflichtschule;25 - 34;aktiv;GEN;3654
+Niederösterreich;Pflichtschule;25 - 34;aktiv;NICHTS;3741
+Niederösterreich;Pflichtschule;25 - 34;inaktiv;IMPF;3686
+Niederösterreich;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;1220
+Niederösterreich;Pflichtschule;25 - 34;inaktiv;GEN;2199
+Niederösterreich;Pflichtschule;25 - 34;inaktiv;NICHTS;3241
+Niederösterreich;Pflichtschule;35 - 44;aktiv;IMPF;8202
+Niederösterreich;Pflichtschule;35 - 44;aktiv;IMPF + GEN;3805
+Niederösterreich;Pflichtschule;35 - 44;aktiv;GEN;4333
+Niederösterreich;Pflichtschule;35 - 44;aktiv;NICHTS;4236
+Niederösterreich;Pflichtschule;35 - 44;inaktiv;IMPF;3428
+Niederösterreich;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;1122
+Niederösterreich;Pflichtschule;35 - 44;inaktiv;GEN;1804
+Niederösterreich;Pflichtschule;35 - 44;inaktiv;NICHTS;2502
+Niederösterreich;Pflichtschule;45 - 54;aktiv;IMPF;11415
+Niederösterreich;Pflichtschule;45 - 54;aktiv;IMPF + GEN;4523
+Niederösterreich;Pflichtschule;45 - 54;aktiv;GEN;3701
+Niederösterreich;Pflichtschule;45 - 54;aktiv;NICHTS;4234
+Niederösterreich;Pflichtschule;45 - 54;inaktiv;IMPF;4458
+Niederösterreich;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;1135
+Niederösterreich;Pflichtschule;45 - 54;inaktiv;GEN;1282
+Niederösterreich;Pflichtschule;45 - 54;inaktiv;NICHTS;2456
+Niederösterreich;Pflichtschule;55 - 64;aktiv;IMPF;9961
+Niederösterreich;Pflichtschule;55 - 64;aktiv;IMPF + GEN;3281
+Niederösterreich;Pflichtschule;55 - 64;aktiv;GEN;2021
+Niederösterreich;Pflichtschule;55 - 64;aktiv;NICHTS;2789
+Niederösterreich;Pflichtschule;55 - 64;inaktiv;IMPF;14727
+Niederösterreich;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;3166
+Niederösterreich;Pflichtschule;55 - 64;inaktiv;GEN;1964
+Niederösterreich;Pflichtschule;55 - 64;inaktiv;NICHTS;4816
+Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;24628
+Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;14458
+Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;GEN;16738
+Niederösterreich;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;12169
+Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;4506
+Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;1972
+Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;4093
+Niederösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;3688
+Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;32188
+Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;20134
+Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;GEN;18503
+Niederösterreich;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;13023
+Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;4442
+Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;1699
+Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;2725
+Niederösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;3016
+Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;55581
+Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;27476
+Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;GEN;16443
+Niederösterreich;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;14807
+Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;7563
+Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;1895
+Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;2046
+Niederösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;3463
+Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;49874
+Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;19878
+Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;GEN;8195
+Niederösterreich;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;10028
+Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;41357
+Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;10022
+Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;4444
+Niederösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;9371
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;13999
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;10645
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;6226
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;3955
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;2868
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;1613
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;1703
+Niederösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;1535
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;15064
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;11177
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;6097
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;3993
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;1859
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;985
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;1026
+Niederösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;1064
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;19003
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;10972
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;4373
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;3499
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;1868
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;567
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;502
+Niederösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;836
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;14802
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;6301
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;1823
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;2183
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;6637
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;1616
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;605
+Niederösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;1526
+Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;IMPF;12648
+Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;11199
+Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;GEN;3465
+Niederösterreich;Akademie/Hochschule;25 - 34;aktiv;NICHTS;2260
+Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;IMPF;2682
+Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;1506
+Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;GEN;1120
+Niederösterreich;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;1100
+Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;IMPF;16528
+Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;14202
+Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;GEN;4589
+Niederösterreich;Akademie/Hochschule;35 - 44;aktiv;NICHTS;3270
+Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;IMPF;2242
+Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;1195
+Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;GEN;951
+Niederösterreich;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;933
+Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;IMPF;18926
+Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;12576
+Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;GEN;3555
+Niederösterreich;Akademie/Hochschule;45 - 54;aktiv;NICHTS;2819
+Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;IMPF;1234
+Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;453
+Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;GEN;343
+Niederösterreich;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;561
+Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;IMPF;15181
+Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;7329
+Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;GEN;1537
+Niederösterreich;Akademie/Hochschule;55 - 64;aktiv;NICHTS;1815
+Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;IMPF;3829
+Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;1091
+Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;GEN;378
+Niederösterreich;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;887
+Niederösterreich;Unknown;25 - 34;aktiv;IMPF;13
+Niederösterreich;Unknown;25 - 34;aktiv;IMPF + GEN;6
+Niederösterreich;Unknown;25 - 34;aktiv;GEN;3
+Niederösterreich;Unknown;25 - 34;aktiv;NICHTS;12
+Niederösterreich;Unknown;25 - 34;inaktiv;IMPF;27
+Niederösterreich;Unknown;25 - 34;inaktiv;IMPF + GEN;7
+Niederösterreich;Unknown;25 - 34;inaktiv;GEN;9
+Niederösterreich;Unknown;25 - 34;inaktiv;NICHTS;31
+Niederösterreich;Unknown;35 - 44;aktiv;IMPF;7
+Niederösterreich;Unknown;35 - 44;aktiv;IMPF + GEN;2
+Niederösterreich;Unknown;35 - 44;aktiv;GEN;2
+Niederösterreich;Unknown;35 - 44;aktiv;NICHTS;11
+Niederösterreich;Unknown;35 - 44;inaktiv;IMPF;9
+Niederösterreich;Unknown;35 - 44;inaktiv;IMPF + GEN;4
+Niederösterreich;Unknown;35 - 44;inaktiv;GEN;4
+Niederösterreich;Unknown;35 - 44;inaktiv;NICHTS;17
+Niederösterreich;Unknown;45 - 54;aktiv;IMPF;8
+Niederösterreich;Unknown;45 - 54;aktiv;GEN;2
+Niederösterreich;Unknown;45 - 54;aktiv;NICHTS;10
+Niederösterreich;Unknown;45 - 54;inaktiv;IMPF;13
+Niederösterreich;Unknown;45 - 54;inaktiv;GEN;3
+Niederösterreich;Unknown;45 - 54;inaktiv;NICHTS;9
+Niederösterreich;Unknown;55 - 64;aktiv;IMPF;4
+Niederösterreich;Unknown;55 - 64;aktiv;NICHTS;7
+Niederösterreich;Unknown;55 - 64;inaktiv;IMPF;8
+Niederösterreich;Unknown;55 - 64;inaktiv;IMPF + GEN;1
+Niederösterreich;Unknown;55 - 64;inaktiv;GEN;1
+Niederösterreich;Unknown;55 - 64;inaktiv;NICHTS;9
+Oberösterreich;Pflichtschule;25 - 34;aktiv;IMPF;5668
+Oberösterreich;Pflichtschule;25 - 34;aktiv;IMPF + GEN;1995
+Oberösterreich;Pflichtschule;25 - 34;aktiv;GEN;5355
+Oberösterreich;Pflichtschule;25 - 34;aktiv;NICHTS;6110
+Oberösterreich;Pflichtschule;25 - 34;inaktiv;IMPF;3070
+Oberösterreich;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;851
+Oberösterreich;Pflichtschule;25 - 34;inaktiv;GEN;2410
+Oberösterreich;Pflichtschule;25 - 34;inaktiv;NICHTS;3983
+Oberösterreich;Pflichtschule;35 - 44;aktiv;IMPF;7891
+Oberösterreich;Pflichtschule;35 - 44;aktiv;IMPF + GEN;3019
+Oberösterreich;Pflichtschule;35 - 44;aktiv;GEN;5747
+Oberösterreich;Pflichtschule;35 - 44;aktiv;NICHTS;6091
+Oberösterreich;Pflichtschule;35 - 44;inaktiv;IMPF;2889
+Oberösterreich;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;780
+Oberösterreich;Pflichtschule;35 - 44;inaktiv;GEN;1773
+Oberösterreich;Pflichtschule;35 - 44;inaktiv;NICHTS;2733
+Oberösterreich;Pflichtschule;45 - 54;aktiv;IMPF;11619
+Oberösterreich;Pflichtschule;45 - 54;aktiv;IMPF + GEN;3994
+Oberösterreich;Pflichtschule;45 - 54;aktiv;GEN;5025
+Oberösterreich;Pflichtschule;45 - 54;aktiv;NICHTS;6248
+Oberösterreich;Pflichtschule;45 - 54;inaktiv;IMPF;3981
+Oberösterreich;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;903
+Oberösterreich;Pflichtschule;45 - 54;inaktiv;GEN;1158
+Oberösterreich;Pflichtschule;45 - 54;inaktiv;NICHTS;2442
+Oberösterreich;Pflichtschule;55 - 64;aktiv;IMPF;10857
+Oberösterreich;Pflichtschule;55 - 64;aktiv;IMPF + GEN;3196
+Oberösterreich;Pflichtschule;55 - 64;aktiv;GEN;2668
+Oberösterreich;Pflichtschule;55 - 64;aktiv;NICHTS;3830
+Oberösterreich;Pflichtschule;55 - 64;inaktiv;IMPF;14262
+Oberösterreich;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;2678
+Oberösterreich;Pflichtschule;55 - 64;inaktiv;GEN;2278
+Oberösterreich;Pflichtschule;55 - 64;inaktiv;NICHTS;5237
+Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;22088
+Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;12216
+Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;GEN;22426
+Oberösterreich;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;17286
+Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;3927
+Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;1643
+Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;4541
+Oberösterreich;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;4422
+Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;27477
+Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;16047
+Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;GEN;22040
+Oberösterreich;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;16923
+Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;3328
+Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;1235
+Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;2641
+Oberösterreich;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;3035
+Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;44554
+Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;20437
+Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;GEN;18526
+Oberösterreich;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;17741
+Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;5056
+Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;1108
+Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;1723
+Oberösterreich;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;2812
+Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;42594
+Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;16142
+Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;GEN;9290
+Oberösterreich;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;11851
+Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;32409
+Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;7256
+Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;4354
+Oberösterreich;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;8406
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;9859
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;7049
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;6142
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;4403
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;2363
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;1156
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;1641
+Oberösterreich;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;1636
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;9268
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;6642
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;5672
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;3949
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;1175
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;521
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;851
+Oberösterreich;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;891
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;10638
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;5938
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;3646
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;3172
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;1054
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;267
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;282
+Oberösterreich;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;561
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;9021
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;3585
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;1459
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;1920
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;4138
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;898
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;452
+Oberösterreich;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;1042
+Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;IMPF;11789
+Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;9550
+Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;GEN;4374
+Oberösterreich;Akademie/Hochschule;25 - 34;aktiv;NICHTS;3099
+Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;IMPF;2231
+Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;1228
+Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;GEN;1225
+Oberösterreich;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;1359
+Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;IMPF;13600
+Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;10977
+Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;GEN;5084
+Oberösterreich;Akademie/Hochschule;35 - 44;aktiv;NICHTS;3682
+Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;IMPF;1600
+Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;815
+Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;GEN;880
+Oberösterreich;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;912
+Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;IMPF;13124
+Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;8343
+Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;GEN;3213
+Oberösterreich;Akademie/Hochschule;45 - 54;aktiv;NICHTS;2835
+Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;IMPF;800
+Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;219
+Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;GEN;227
+Oberösterreich;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;436
+Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;IMPF;11352
+Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;5381
+Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;GEN;1333
+Oberösterreich;Akademie/Hochschule;55 - 64;aktiv;NICHTS;1674
+Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;IMPF;3173
+Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;861
+Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;GEN;306
+Oberösterreich;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;688
+Oberösterreich;Unknown;25 - 34;aktiv;IMPF;15
+Oberösterreich;Unknown;25 - 34;aktiv;IMPF + GEN;3
+Oberösterreich;Unknown;25 - 34;aktiv;GEN;8
+Oberösterreich;Unknown;25 - 34;aktiv;NICHTS;22
+Oberösterreich;Unknown;25 - 34;inaktiv;IMPF;31
+Oberösterreich;Unknown;25 - 34;inaktiv;IMPF + GEN;5
+Oberösterreich;Unknown;25 - 34;inaktiv;GEN;17
+Oberösterreich;Unknown;25 - 34;inaktiv;NICHTS;36
+Oberösterreich;Unknown;35 - 44;aktiv;IMPF;7
+Oberösterreich;Unknown;35 - 44;aktiv;IMPF + GEN;4
+Oberösterreich;Unknown;35 - 44;aktiv;GEN;12
+Oberösterreich;Unknown;35 - 44;aktiv;NICHTS;13
+Oberösterreich;Unknown;35 - 44;inaktiv;IMPF;19
+Oberösterreich;Unknown;35 - 44;inaktiv;IMPF + GEN;3
+Oberösterreich;Unknown;35 - 44;inaktiv;GEN;6
+Oberösterreich;Unknown;35 - 44;inaktiv;NICHTS;23
+Oberösterreich;Unknown;45 - 54;aktiv;IMPF;6
+Oberösterreich;Unknown;45 - 54;aktiv;IMPF + GEN;2
+Oberösterreich;Unknown;45 - 54;aktiv;GEN;3
+Oberösterreich;Unknown;45 - 54;aktiv;NICHTS;6
+Oberösterreich;Unknown;45 - 54;inaktiv;IMPF;7
+Oberösterreich;Unknown;45 - 54;inaktiv;GEN;6
+Oberösterreich;Unknown;45 - 54;inaktiv;NICHTS;20
+Oberösterreich;Unknown;55 - 64;aktiv;NICHTS;5
+Oberösterreich;Unknown;55 - 64;inaktiv;IMPF;5
+Oberösterreich;Unknown;55 - 64;inaktiv;IMPF + GEN;1
+Oberösterreich;Unknown;55 - 64;inaktiv;GEN;4
+Oberösterreich;Unknown;55 - 64;inaktiv;NICHTS;15
+Salzburg;Pflichtschule;25 - 34;aktiv;IMPF;2358
+Salzburg;Pflichtschule;25 - 34;aktiv;IMPF + GEN;879
+Salzburg;Pflichtschule;25 - 34;aktiv;GEN;1804
+Salzburg;Pflichtschule;25 - 34;aktiv;NICHTS;2044
+Salzburg;Pflichtschule;25 - 34;inaktiv;IMPF;934
+Salzburg;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;299
+Salzburg;Pflichtschule;25 - 34;inaktiv;GEN;617
+Salzburg;Pflichtschule;25 - 34;inaktiv;NICHTS;1007
+Salzburg;Pflichtschule;35 - 44;aktiv;IMPF;3027
+Salzburg;Pflichtschule;35 - 44;aktiv;IMPF + GEN;1304
+Salzburg;Pflichtschule;35 - 44;aktiv;GEN;1912
+Salzburg;Pflichtschule;35 - 44;aktiv;NICHTS;2038
+Salzburg;Pflichtschule;35 - 44;inaktiv;IMPF;926
+Salzburg;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;270
+Salzburg;Pflichtschule;35 - 44;inaktiv;GEN;477
+Salzburg;Pflichtschule;35 - 44;inaktiv;NICHTS;794
+Salzburg;Pflichtschule;45 - 54;aktiv;IMPF;4274
+Salzburg;Pflichtschule;45 - 54;aktiv;IMPF + GEN;1483
+Salzburg;Pflichtschule;45 - 54;aktiv;GEN;1576
+Salzburg;Pflichtschule;45 - 54;aktiv;NICHTS;1874
+Salzburg;Pflichtschule;45 - 54;inaktiv;IMPF;1201
+Salzburg;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;318
+Salzburg;Pflichtschule;45 - 54;inaktiv;GEN;348
+Salzburg;Pflichtschule;45 - 54;inaktiv;NICHTS;732
+Salzburg;Pflichtschule;55 - 64;aktiv;IMPF;3489
+Salzburg;Pflichtschule;55 - 64;aktiv;IMPF + GEN;950
+Salzburg;Pflichtschule;55 - 64;aktiv;GEN;777
+Salzburg;Pflichtschule;55 - 64;aktiv;NICHTS;1151
+Salzburg;Pflichtschule;55 - 64;inaktiv;IMPF;3784
+Salzburg;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;741
+Salzburg;Pflichtschule;55 - 64;inaktiv;GEN;553
+Salzburg;Pflichtschule;55 - 64;inaktiv;NICHTS;1459
+Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;8030
+Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;4367
+Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;GEN;6880
+Salzburg;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;5436
+Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;1331
+Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;548
+Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;1401
+Salzburg;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;1357
+Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;10335
+Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;6003
+Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;GEN;7071
+Salzburg;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;5648
+Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;1241
+Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;513
+Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;898
+Salzburg;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;1007
+Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;16970
+Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;7790
+Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;GEN;6380
+Salzburg;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;6270
+Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;1907
+Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;446
+Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;547
+Salzburg;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;901
+Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;16259
+Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;6060
+Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;GEN;3392
+Salzburg;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;4370
+Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;10726
+Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;2492
+Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;1530
+Salzburg;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;2635
+Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;4182
+Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;3031
+Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;2831
+Salzburg;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;2016
+Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;915
+Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;441
+Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;665
+Salzburg;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;714
+Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;3716
+Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;2682
+Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;2235
+Salzburg;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;1609
+Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;470
+Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;238
+Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;317
+Salzburg;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;352
+Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;4148
+Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;2334
+Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;1424
+Salzburg;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;1230
+Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;405
+Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;123
+Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;122
+Salzburg;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;216
+Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;3609
+Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;1530
+Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;625
+Salzburg;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;804
+Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;1500
+Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;384
+Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;165
+Salzburg;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;384
+Salzburg;Akademie/Hochschule;25 - 34;aktiv;IMPF;4708
+Salzburg;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;3959
+Salzburg;Akademie/Hochschule;25 - 34;aktiv;GEN;2048
+Salzburg;Akademie/Hochschule;25 - 34;aktiv;NICHTS;1499
+Salzburg;Akademie/Hochschule;25 - 34;inaktiv;IMPF;937
+Salzburg;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;469
+Salzburg;Akademie/Hochschule;25 - 34;inaktiv;GEN;555
+Salzburg;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;691
+Salzburg;Akademie/Hochschule;35 - 44;aktiv;IMPF;5580
+Salzburg;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;4661
+Salzburg;Akademie/Hochschule;35 - 44;aktiv;GEN;2216
+Salzburg;Akademie/Hochschule;35 - 44;aktiv;NICHTS;1781
+Salzburg;Akademie/Hochschule;35 - 44;inaktiv;IMPF;788
+Salzburg;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;417
+Salzburg;Akademie/Hochschule;35 - 44;inaktiv;GEN;401
+Salzburg;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;426
+Salzburg;Akademie/Hochschule;45 - 54;aktiv;IMPF;5453
+Salzburg;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;3629
+Salzburg;Akademie/Hochschule;45 - 54;aktiv;GEN;1418
+Salzburg;Akademie/Hochschule;45 - 54;aktiv;NICHTS;1343
+Salzburg;Akademie/Hochschule;45 - 54;inaktiv;IMPF;394
+Salzburg;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;154
+Salzburg;Akademie/Hochschule;45 - 54;inaktiv;GEN;118
+Salzburg;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;190
+Salzburg;Akademie/Hochschule;55 - 64;aktiv;IMPF;5044
+Salzburg;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;2497
+Salzburg;Akademie/Hochschule;55 - 64;aktiv;GEN;682
+Salzburg;Akademie/Hochschule;55 - 64;aktiv;NICHTS;848
+Salzburg;Akademie/Hochschule;55 - 64;inaktiv;IMPF;1110
+Salzburg;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;284
+Salzburg;Akademie/Hochschule;55 - 64;inaktiv;GEN;134
+Salzburg;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;312
+Salzburg;Unknown;25 - 34;aktiv;IMPF;9
+Salzburg;Unknown;25 - 34;aktiv;IMPF + GEN;3
+Salzburg;Unknown;25 - 34;aktiv;GEN;4
+Salzburg;Unknown;25 - 34;aktiv;NICHTS;11
+Salzburg;Unknown;25 - 34;inaktiv;IMPF;11
+Salzburg;Unknown;25 - 34;inaktiv;GEN;3
+Salzburg;Unknown;25 - 34;inaktiv;NICHTS;15
+Salzburg;Unknown;35 - 44;aktiv;IMPF;4
+Salzburg;Unknown;35 - 44;aktiv;IMPF + GEN;3
+Salzburg;Unknown;35 - 44;aktiv;GEN;3
+Salzburg;Unknown;35 - 44;aktiv;NICHTS;6
+Salzburg;Unknown;35 - 44;inaktiv;IMPF;6
+Salzburg;Unknown;35 - 44;inaktiv;IMPF + GEN;1
+Salzburg;Unknown;35 - 44;inaktiv;GEN;1
+Salzburg;Unknown;35 - 44;inaktiv;NICHTS;12
+Salzburg;Unknown;45 - 54;aktiv;IMPF;3
+Salzburg;Unknown;45 - 54;aktiv;IMPF + GEN;1
+Salzburg;Unknown;45 - 54;aktiv;GEN;3
+Salzburg;Unknown;45 - 54;aktiv;NICHTS;3
+Salzburg;Unknown;45 - 54;inaktiv;IMPF;8
+Salzburg;Unknown;45 - 54;inaktiv;IMPF + GEN;1
+Salzburg;Unknown;45 - 54;inaktiv;NICHTS;5
+Salzburg;Unknown;55 - 64;aktiv;IMPF;3
+Salzburg;Unknown;55 - 64;aktiv;IMPF + GEN;1
+Salzburg;Unknown;55 - 64;aktiv;GEN;1
+Salzburg;Unknown;55 - 64;aktiv;NICHTS;1
+Salzburg;Unknown;55 - 64;inaktiv;IMPF;4
+Salzburg;Unknown;55 - 64;inaktiv;IMPF + GEN;1
+Salzburg;Unknown;55 - 64;inaktiv;GEN;1
+Salzburg;Unknown;55 - 64;inaktiv;NICHTS;4
+Steiermark;Pflichtschule;25 - 34;aktiv;IMPF;3949
+Steiermark;Pflichtschule;25 - 34;aktiv;IMPF + GEN;1438
+Steiermark;Pflichtschule;25 - 34;aktiv;GEN;2877
+Steiermark;Pflichtschule;25 - 34;aktiv;NICHTS;3311
+Steiermark;Pflichtschule;25 - 34;inaktiv;IMPF;2688
+Steiermark;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;735
+Steiermark;Pflichtschule;25 - 34;inaktiv;GEN;1599
+Steiermark;Pflichtschule;25 - 34;inaktiv;NICHTS;2722
+Steiermark;Pflichtschule;35 - 44;aktiv;IMPF;5767
+Steiermark;Pflichtschule;35 - 44;aktiv;IMPF + GEN;2225
+Steiermark;Pflichtschule;35 - 44;aktiv;GEN;3190
+Steiermark;Pflichtschule;35 - 44;aktiv;NICHTS;3649
+Steiermark;Pflichtschule;35 - 44;inaktiv;IMPF;2808
+Steiermark;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;719
+Steiermark;Pflichtschule;35 - 44;inaktiv;GEN;1257
+Steiermark;Pflichtschule;35 - 44;inaktiv;NICHTS;2290
+Steiermark;Pflichtschule;45 - 54;aktiv;IMPF;8056
+Steiermark;Pflichtschule;45 - 54;aktiv;IMPF + GEN;2568
+Steiermark;Pflichtschule;45 - 54;aktiv;GEN;2702
+Steiermark;Pflichtschule;45 - 54;aktiv;NICHTS;3424
+Steiermark;Pflichtschule;45 - 54;inaktiv;IMPF;3985
+Steiermark;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;729
+Steiermark;Pflichtschule;45 - 54;inaktiv;GEN;875
+Steiermark;Pflichtschule;45 - 54;inaktiv;NICHTS;2045
+Steiermark;Pflichtschule;55 - 64;aktiv;IMPF;6950
+Steiermark;Pflichtschule;55 - 64;aktiv;IMPF + GEN;1864
+Steiermark;Pflichtschule;55 - 64;aktiv;GEN;1425
+Steiermark;Pflichtschule;55 - 64;aktiv;NICHTS;2051
+Steiermark;Pflichtschule;55 - 64;inaktiv;IMPF;11400
+Steiermark;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;1799
+Steiermark;Pflichtschule;55 - 64;inaktiv;GEN;1419
+Steiermark;Pflichtschule;55 - 64;inaktiv;NICHTS;3401
+Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;18993
+Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;9300
+Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;GEN;13637
+Steiermark;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;10592
+Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;3856
+Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;1340
+Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;3001
+Steiermark;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;3189
+Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;25012
+Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;12728
+Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;GEN;14302
+Steiermark;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;10675
+Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;3552
+Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;1141
+Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;1912
+Steiermark;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;2472
+Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;41974
+Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;16924
+Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;GEN;12933
+Steiermark;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;12040
+Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;6736
+Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;1365
+Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;1744
+Steiermark;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;2886
+Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;35994
+Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;11831
+Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;GEN;6528
+Steiermark;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;7728
+Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;35118
+Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;6577
+Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;3965
+Steiermark;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;7659
+Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;11781
+Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;7526
+Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;5429
+Steiermark;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;3852
+Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;2885
+Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;1199
+Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;1320
+Steiermark;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;1629
+Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;10354
+Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;6574
+Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;4580
+Steiermark;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;3235
+Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;1440
+Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;536
+Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;727
+Steiermark;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;840
+Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;11248
+Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;5605
+Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;2820
+Steiermark;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;2450
+Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;1340
+Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;286
+Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;365
+Steiermark;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;666
+Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;8261
+Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;3014
+Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;1174
+Steiermark;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;1424
+Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;4068
+Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;781
+Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;433
+Steiermark;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;952
+Steiermark;Akademie/Hochschule;25 - 34;aktiv;IMPF;12933
+Steiermark;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;10405
+Steiermark;Akademie/Hochschule;25 - 34;aktiv;GEN;3779
+Steiermark;Akademie/Hochschule;25 - 34;aktiv;NICHTS;2651
+Steiermark;Akademie/Hochschule;25 - 34;inaktiv;IMPF;2646
+Steiermark;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;1196
+Steiermark;Akademie/Hochschule;25 - 34;inaktiv;GEN;921
+Steiermark;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;1223
+Steiermark;Akademie/Hochschule;35 - 44;aktiv;IMPF;13735
+Steiermark;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;10394
+Steiermark;Akademie/Hochschule;35 - 44;aktiv;GEN;3953
+Steiermark;Akademie/Hochschule;35 - 44;aktiv;NICHTS;2744
+Steiermark;Akademie/Hochschule;35 - 44;inaktiv;IMPF;1801
+Steiermark;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;827
+Steiermark;Akademie/Hochschule;35 - 44;inaktiv;GEN;718
+Steiermark;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;857
+Steiermark;Akademie/Hochschule;45 - 54;aktiv;IMPF;12967
+Steiermark;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;7375
+Steiermark;Akademie/Hochschule;45 - 54;aktiv;GEN;2421
+Steiermark;Akademie/Hochschule;45 - 54;aktiv;NICHTS;2190
+Steiermark;Akademie/Hochschule;45 - 54;inaktiv;IMPF;974
+Steiermark;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;244
+Steiermark;Akademie/Hochschule;45 - 54;inaktiv;GEN;235
+Steiermark;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;470
+Steiermark;Akademie/Hochschule;55 - 64;aktiv;IMPF;11083
+Steiermark;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;4663
+Steiermark;Akademie/Hochschule;55 - 64;aktiv;GEN;1114
+Steiermark;Akademie/Hochschule;55 - 64;aktiv;NICHTS;1337
+Steiermark;Akademie/Hochschule;55 - 64;inaktiv;IMPF;3126
+Steiermark;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;714
+Steiermark;Akademie/Hochschule;55 - 64;inaktiv;GEN;313
+Steiermark;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;668
+Steiermark;Unknown;25 - 34;aktiv;IMPF;8
+Steiermark;Unknown;25 - 34;aktiv;IMPF + GEN;1
+Steiermark;Unknown;25 - 34;aktiv;GEN;9
+Steiermark;Unknown;25 - 34;aktiv;NICHTS;14
+Steiermark;Unknown;25 - 34;inaktiv;IMPF;29
+Steiermark;Unknown;25 - 34;inaktiv;IMPF + GEN;3
+Steiermark;Unknown;25 - 34;inaktiv;GEN;11
+Steiermark;Unknown;25 - 34;inaktiv;NICHTS;32
+Steiermark;Unknown;35 - 44;aktiv;IMPF;8
+Steiermark;Unknown;35 - 44;aktiv;IMPF + GEN;1
+Steiermark;Unknown;35 - 44;aktiv;GEN;5
+Steiermark;Unknown;35 - 44;aktiv;NICHTS;8
+Steiermark;Unknown;35 - 44;inaktiv;IMPF;17
+Steiermark;Unknown;35 - 44;inaktiv;IMPF + GEN;3
+Steiermark;Unknown;35 - 44;inaktiv;GEN;3
+Steiermark;Unknown;35 - 44;inaktiv;NICHTS;15
+Steiermark;Unknown;45 - 54;aktiv;IMPF;9
+Steiermark;Unknown;45 - 54;aktiv;IMPF + GEN;1
+Steiermark;Unknown;45 - 54;aktiv;NICHTS;9
+Steiermark;Unknown;45 - 54;inaktiv;IMPF;12
+Steiermark;Unknown;45 - 54;inaktiv;GEN;3
+Steiermark;Unknown;45 - 54;inaktiv;NICHTS;13
+Steiermark;Unknown;55 - 64;aktiv;IMPF;3
+Steiermark;Unknown;55 - 64;aktiv;IMPF + GEN;1
+Steiermark;Unknown;55 - 64;aktiv;NICHTS;3
+Steiermark;Unknown;55 - 64;inaktiv;IMPF;8
+Steiermark;Unknown;55 - 64;inaktiv;IMPF + GEN;1
+Steiermark;Unknown;55 - 64;inaktiv;NICHTS;7
+Tirol;Pflichtschule;25 - 34;aktiv;IMPF;3381
+Tirol;Pflichtschule;25 - 34;aktiv;IMPF + GEN;1334
+Tirol;Pflichtschule;25 - 34;aktiv;GEN;2358
+Tirol;Pflichtschule;25 - 34;aktiv;NICHTS;2603
+Tirol;Pflichtschule;25 - 34;inaktiv;IMPF;1321
+Tirol;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;372
+Tirol;Pflichtschule;25 - 34;inaktiv;GEN;834
+Tirol;Pflichtschule;25 - 34;inaktiv;NICHTS;1369
+Tirol;Pflichtschule;35 - 44;aktiv;IMPF;4516
+Tirol;Pflichtschule;35 - 44;aktiv;IMPF + GEN;1807
+Tirol;Pflichtschule;35 - 44;aktiv;GEN;2357
+Tirol;Pflichtschule;35 - 44;aktiv;NICHTS;2503
+Tirol;Pflichtschule;35 - 44;inaktiv;IMPF;1346
+Tirol;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;382
+Tirol;Pflichtschule;35 - 44;inaktiv;GEN;665
+Tirol;Pflichtschule;35 - 44;inaktiv;NICHTS;1036
+Tirol;Pflichtschule;45 - 54;aktiv;IMPF;6684
+Tirol;Pflichtschule;45 - 54;aktiv;IMPF + GEN;2213
+Tirol;Pflichtschule;45 - 54;aktiv;GEN;2125
+Tirol;Pflichtschule;45 - 54;aktiv;NICHTS;2492
+Tirol;Pflichtschule;45 - 54;inaktiv;IMPF;1878
+Tirol;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;421
+Tirol;Pflichtschule;45 - 54;inaktiv;GEN;487
+Tirol;Pflichtschule;45 - 54;inaktiv;NICHTS;992
+Tirol;Pflichtschule;55 - 64;aktiv;IMPF;6048
+Tirol;Pflichtschule;55 - 64;aktiv;IMPF + GEN;1676
+Tirol;Pflichtschule;55 - 64;aktiv;GEN;1203
+Tirol;Pflichtschule;55 - 64;aktiv;NICHTS;1831
+Tirol;Pflichtschule;55 - 64;inaktiv;IMPF;6548
+Tirol;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;1215
+Tirol;Pflichtschule;55 - 64;inaktiv;GEN;931
+Tirol;Pflichtschule;55 - 64;inaktiv;NICHTS;2082
+Tirol;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;13239
+Tirol;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;6606
+Tirol;Lehrabschluss/BMS;25 - 34;aktiv;GEN;9116
+Tirol;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;7373
+Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;2279
+Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;834
+Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;2118
+Tirol;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;2006
+Tirol;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;16285
+Tirol;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;8886
+Tirol;Lehrabschluss/BMS;35 - 44;aktiv;GEN;8995
+Tirol;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;7130
+Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;2078
+Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;851
+Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;1287
+Tirol;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;1478
+Tirol;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;25183
+Tirol;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;10503
+Tirol;Lehrabschluss/BMS;45 - 54;aktiv;GEN;7732
+Tirol;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;7352
+Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;2922
+Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;713
+Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;852
+Tirol;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;1373
+Tirol;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;23019
+Tirol;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;7668
+Tirol;Lehrabschluss/BMS;55 - 64;aktiv;GEN;4161
+Tirol;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;5349
+Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;14677
+Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;3180
+Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;1813
+Tirol;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;3490
+Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;6290
+Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;4212
+Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;3090
+Tirol;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;2284
+Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;1501
+Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;676
+Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;780
+Tirol;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;1038
+Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;5332
+Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;3514
+Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;2310
+Tirol;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;1785
+Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;707
+Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;348
+Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;413
+Tirol;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;469
+Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;5892
+Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;3012
+Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;1579
+Tirol;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;1443
+Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;588
+Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;172
+Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;131
+Tirol;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;273
+Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;4651
+Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;1763
+Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;663
+Tirol;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;891
+Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;1799
+Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;465
+Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;201
+Tirol;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;446
+Tirol;Akademie/Hochschule;25 - 34;aktiv;IMPF;7336
+Tirol;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;5947
+Tirol;Akademie/Hochschule;25 - 34;aktiv;GEN;2417
+Tirol;Akademie/Hochschule;25 - 34;aktiv;NICHTS;1702
+Tirol;Akademie/Hochschule;25 - 34;inaktiv;IMPF;1534
+Tirol;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;741
+Tirol;Akademie/Hochschule;25 - 34;inaktiv;GEN;691
+Tirol;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;1061
+Tirol;Akademie/Hochschule;35 - 44;aktiv;IMPF;7690
+Tirol;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;5986
+Tirol;Akademie/Hochschule;35 - 44;aktiv;GEN;2336
+Tirol;Akademie/Hochschule;35 - 44;aktiv;NICHTS;1889
+Tirol;Akademie/Hochschule;35 - 44;inaktiv;IMPF;1072
+Tirol;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;557
+Tirol;Akademie/Hochschule;35 - 44;inaktiv;GEN;486
+Tirol;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;498
+Tirol;Akademie/Hochschule;45 - 54;aktiv;IMPF;7520
+Tirol;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;4677
+Tirol;Akademie/Hochschule;45 - 54;aktiv;GEN;1646
+Tirol;Akademie/Hochschule;45 - 54;aktiv;NICHTS;1586
+Tirol;Akademie/Hochschule;45 - 54;inaktiv;IMPF;526
+Tirol;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;177
+Tirol;Akademie/Hochschule;45 - 54;inaktiv;GEN;142
+Tirol;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;283
+Tirol;Akademie/Hochschule;55 - 64;aktiv;IMPF;6715
+Tirol;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;2895
+Tirol;Akademie/Hochschule;55 - 64;aktiv;GEN;766
+Tirol;Akademie/Hochschule;55 - 64;aktiv;NICHTS;968
+Tirol;Akademie/Hochschule;55 - 64;inaktiv;IMPF;1396
+Tirol;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;314
+Tirol;Akademie/Hochschule;55 - 64;inaktiv;GEN;100
+Tirol;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;350
+Tirol;Unknown;25 - 34;aktiv;IMPF;20
+Tirol;Unknown;25 - 34;aktiv;IMPF + GEN;7
+Tirol;Unknown;25 - 34;aktiv;GEN;12
+Tirol;Unknown;25 - 34;aktiv;NICHTS;19
+Tirol;Unknown;25 - 34;inaktiv;IMPF;12
+Tirol;Unknown;25 - 34;inaktiv;IMPF + GEN;2
+Tirol;Unknown;25 - 34;inaktiv;GEN;10
+Tirol;Unknown;25 - 34;inaktiv;NICHTS;20
+Tirol;Unknown;35 - 44;aktiv;IMPF;9
+Tirol;Unknown;35 - 44;aktiv;IMPF + GEN;2
+Tirol;Unknown;35 - 44;aktiv;GEN;8
+Tirol;Unknown;35 - 44;aktiv;NICHTS;7
+Tirol;Unknown;35 - 44;inaktiv;IMPF;3
+Tirol;Unknown;35 - 44;inaktiv;IMPF + GEN;2
+Tirol;Unknown;35 - 44;inaktiv;GEN;3
+Tirol;Unknown;35 - 44;inaktiv;NICHTS;6
+Tirol;Unknown;45 - 54;aktiv;IMPF;6
+Tirol;Unknown;45 - 54;aktiv;GEN;1
+Tirol;Unknown;45 - 54;aktiv;NICHTS;3
+Tirol;Unknown;45 - 54;inaktiv;IMPF;12
+Tirol;Unknown;45 - 54;inaktiv;IMPF + GEN;2
+Tirol;Unknown;45 - 54;inaktiv;GEN;1
+Tirol;Unknown;45 - 54;inaktiv;NICHTS;6
+Tirol;Unknown;55 - 64;aktiv;IMPF;2
+Tirol;Unknown;55 - 64;aktiv;IMPF + GEN;2
+Tirol;Unknown;55 - 64;aktiv;NICHTS;5
+Tirol;Unknown;55 - 64;inaktiv;IMPF;9
+Tirol;Unknown;55 - 64;inaktiv;GEN;3
+Tirol;Unknown;55 - 64;inaktiv;NICHTS;5
+Vorarlberg;Pflichtschule;25 - 34;aktiv;IMPF;1851
+Vorarlberg;Pflichtschule;25 - 34;aktiv;IMPF + GEN;831
+Vorarlberg;Pflichtschule;25 - 34;aktiv;GEN;1320
+Vorarlberg;Pflichtschule;25 - 34;aktiv;NICHTS;1525
+Vorarlberg;Pflichtschule;25 - 34;inaktiv;IMPF;757
+Vorarlberg;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;252
+Vorarlberg;Pflichtschule;25 - 34;inaktiv;GEN;644
+Vorarlberg;Pflichtschule;25 - 34;inaktiv;NICHTS;973
+Vorarlberg;Pflichtschule;35 - 44;aktiv;IMPF;2700
+Vorarlberg;Pflichtschule;35 - 44;aktiv;IMPF + GEN;1245
+Vorarlberg;Pflichtschule;35 - 44;aktiv;GEN;1558
+Vorarlberg;Pflichtschule;35 - 44;aktiv;NICHTS;1565
+Vorarlberg;Pflichtschule;35 - 44;inaktiv;IMPF;874
+Vorarlberg;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;301
+Vorarlberg;Pflichtschule;35 - 44;inaktiv;GEN;572
+Vorarlberg;Pflichtschule;35 - 44;inaktiv;NICHTS;786
+Vorarlberg;Pflichtschule;45 - 54;aktiv;IMPF;3863
+Vorarlberg;Pflichtschule;45 - 54;aktiv;IMPF + GEN;1434
+Vorarlberg;Pflichtschule;45 - 54;aktiv;GEN;1342
+Vorarlberg;Pflichtschule;45 - 54;aktiv;NICHTS;1556
+Vorarlberg;Pflichtschule;45 - 54;inaktiv;IMPF;1330
+Vorarlberg;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;282
+Vorarlberg;Pflichtschule;45 - 54;inaktiv;GEN;390
+Vorarlberg;Pflichtschule;45 - 54;inaktiv;NICHTS;751
+Vorarlberg;Pflichtschule;55 - 64;aktiv;IMPF;3111
+Vorarlberg;Pflichtschule;55 - 64;aktiv;IMPF + GEN;971
+Vorarlberg;Pflichtschule;55 - 64;aktiv;GEN;625
+Vorarlberg;Pflichtschule;55 - 64;aktiv;NICHTS;994
+Vorarlberg;Pflichtschule;55 - 64;inaktiv;IMPF;3651
+Vorarlberg;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;707
+Vorarlberg;Pflichtschule;55 - 64;inaktiv;GEN;492
+Vorarlberg;Pflichtschule;55 - 64;inaktiv;NICHTS;1463
+Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;6210
+Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;3767
+Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;GEN;4825
+Vorarlberg;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;3942
+Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;1052
+Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;493
+Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;1100
+Vorarlberg;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;1174
+Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;7834
+Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;4812
+Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;GEN;4716
+Vorarlberg;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;3767
+Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;1026
+Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;475
+Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;735
+Vorarlberg;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;845
+Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;12224
+Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;5893
+Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;GEN;3904
+Vorarlberg;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;4015
+Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;1452
+Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;385
+Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;445
+Vorarlberg;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;790
+Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;11471
+Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;4413
+Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;GEN;2073
+Vorarlberg;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;2648
+Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;6750
+Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;1475
+Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;893
+Vorarlberg;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;1900
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;2711
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;2174
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;1375
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;993
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;677
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;354
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;414
+Vorarlberg;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;429
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;2608
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;1991
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;1180
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;933
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;405
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;219
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;262
+Vorarlberg;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;286
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;2793
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;1625
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;785
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;746
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;318
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;98
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;102
+Vorarlberg;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;146
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;2277
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;955
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;343
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;431
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;886
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;231
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;94
+Vorarlberg;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;232
+Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;IMPF;2657
+Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;2344
+Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;GEN;848
+Vorarlberg;Akademie/Hochschule;25 - 34;aktiv;NICHTS;580
+Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;IMPF;651
+Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;344
+Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;GEN;265
+Vorarlberg;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;319
+Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;IMPF;3386
+Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;2877
+Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;GEN;1103
+Vorarlberg;Akademie/Hochschule;35 - 44;aktiv;NICHTS;878
+Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;IMPF;562
+Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;282
+Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;GEN;283
+Vorarlberg;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;288
+Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;IMPF;3624
+Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;2364
+Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;GEN;742
+Vorarlberg;Akademie/Hochschule;45 - 54;aktiv;NICHTS;707
+Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;IMPF;301
+Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;113
+Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;GEN;99
+Vorarlberg;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;134
+Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;IMPF;3168
+Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;1593
+Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;GEN;350
+Vorarlberg;Akademie/Hochschule;55 - 64;aktiv;NICHTS;446
+Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;IMPF;766
+Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;228
+Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;GEN;58
+Vorarlberg;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;202
+Vorarlberg;Unknown;25 - 34;aktiv;IMPF;7
+Vorarlberg;Unknown;25 - 34;aktiv;IMPF + GEN;4
+Vorarlberg;Unknown;25 - 34;aktiv;GEN;4
+Vorarlberg;Unknown;25 - 34;aktiv;NICHTS;9
+Vorarlberg;Unknown;25 - 34;inaktiv;IMPF;17
+Vorarlberg;Unknown;25 - 34;inaktiv;IMPF + GEN;5
+Vorarlberg;Unknown;25 - 34;inaktiv;GEN;5
+Vorarlberg;Unknown;25 - 34;inaktiv;NICHTS;16
+Vorarlberg;Unknown;35 - 44;aktiv;IMPF;7
+Vorarlberg;Unknown;35 - 44;aktiv;IMPF + GEN;1
+Vorarlberg;Unknown;35 - 44;aktiv;GEN;3
+Vorarlberg;Unknown;35 - 44;aktiv;NICHTS;7
+Vorarlberg;Unknown;35 - 44;inaktiv;IMPF;6
+Vorarlberg;Unknown;35 - 44;inaktiv;IMPF + GEN;3
+Vorarlberg;Unknown;35 - 44;inaktiv;GEN;1
+Vorarlberg;Unknown;35 - 44;inaktiv;NICHTS;6
+Vorarlberg;Unknown;45 - 54;aktiv;IMPF;3
+Vorarlberg;Unknown;45 - 54;aktiv;GEN;3
+Vorarlberg;Unknown;45 - 54;aktiv;NICHTS;2
+Vorarlberg;Unknown;45 - 54;inaktiv;IMPF;3
+Vorarlberg;Unknown;45 - 54;inaktiv;IMPF + GEN;2
+Vorarlberg;Unknown;45 - 54;inaktiv;GEN;1
+Vorarlberg;Unknown;45 - 54;inaktiv;NICHTS;5
+Vorarlberg;Unknown;55 - 64;aktiv;IMPF;3
+Vorarlberg;Unknown;55 - 64;aktiv;GEN;2
+Vorarlberg;Unknown;55 - 64;aktiv;NICHTS;1
+Vorarlberg;Unknown;55 - 64;inaktiv;IMPF;5
+Vorarlberg;Unknown;55 - 64;inaktiv;NICHTS;4
+Wien;Pflichtschule;25 - 34;aktiv;IMPF;9545
+Wien;Pflichtschule;25 - 34;aktiv;IMPF + GEN;4629
+Wien;Pflichtschule;25 - 34;aktiv;GEN;6577
+Wien;Pflichtschule;25 - 34;aktiv;NICHTS;7183
+Wien;Pflichtschule;25 - 34;inaktiv;IMPF;7644
+Wien;Pflichtschule;25 - 34;inaktiv;IMPF + GEN;2442
+Wien;Pflichtschule;25 - 34;inaktiv;GEN;6171
+Wien;Pflichtschule;25 - 34;inaktiv;NICHTS;8684
+Wien;Pflichtschule;35 - 44;aktiv;IMPF;12535
+Wien;Pflichtschule;35 - 44;aktiv;IMPF + GEN;6336
+Wien;Pflichtschule;35 - 44;aktiv;GEN;7634
+Wien;Pflichtschule;35 - 44;aktiv;NICHTS;7179
+Wien;Pflichtschule;35 - 44;inaktiv;IMPF;7720
+Wien;Pflichtschule;35 - 44;inaktiv;IMPF + GEN;2648
+Wien;Pflichtschule;35 - 44;inaktiv;GEN;5211
+Wien;Pflichtschule;35 - 44;inaktiv;NICHTS;7032
+Wien;Pflichtschule;45 - 54;aktiv;IMPF;15502
+Wien;Pflichtschule;45 - 54;aktiv;IMPF + GEN;6507
+Wien;Pflichtschule;45 - 54;aktiv;GEN;5968
+Wien;Pflichtschule;45 - 54;aktiv;NICHTS;6858
+Wien;Pflichtschule;45 - 54;inaktiv;IMPF;8932
+Wien;Pflichtschule;45 - 54;inaktiv;IMPF + GEN;2371
+Wien;Pflichtschule;45 - 54;inaktiv;GEN;3714
+Wien;Pflichtschule;45 - 54;inaktiv;NICHTS;6223
+Wien;Pflichtschule;55 - 64;aktiv;IMPF;11060
+Wien;Pflichtschule;55 - 64;aktiv;IMPF + GEN;3755
+Wien;Pflichtschule;55 - 64;aktiv;GEN;2246
+Wien;Pflichtschule;55 - 64;aktiv;NICHTS;3665
+Wien;Pflichtschule;55 - 64;inaktiv;IMPF;16004
+Wien;Pflichtschule;55 - 64;inaktiv;IMPF + GEN;3366
+Wien;Pflichtschule;55 - 64;inaktiv;GEN;2993
+Wien;Pflichtschule;55 - 64;inaktiv;NICHTS;7866
+Wien;Lehrabschluss/BMS;25 - 34;aktiv;IMPF;18194
+Wien;Lehrabschluss/BMS;25 - 34;aktiv;IMPF + GEN;11410
+Wien;Lehrabschluss/BMS;25 - 34;aktiv;GEN;10949
+Wien;Lehrabschluss/BMS;25 - 34;aktiv;NICHTS;8621
+Wien;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF;5359
+Wien;Lehrabschluss/BMS;25 - 34;inaktiv;IMPF + GEN;2052
+Wien;Lehrabschluss/BMS;25 - 34;inaktiv;GEN;4340
+Wien;Lehrabschluss/BMS;25 - 34;inaktiv;NICHTS;5238
+Wien;Lehrabschluss/BMS;35 - 44;aktiv;IMPF;21010
+Wien;Lehrabschluss/BMS;35 - 44;aktiv;IMPF + GEN;12464
+Wien;Lehrabschluss/BMS;35 - 44;aktiv;GEN;10437
+Wien;Lehrabschluss/BMS;35 - 44;aktiv;NICHTS;8397
+Wien;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF;5734
+Wien;Lehrabschluss/BMS;35 - 44;inaktiv;IMPF + GEN;1970
+Wien;Lehrabschluss/BMS;35 - 44;inaktiv;GEN;3362
+Wien;Lehrabschluss/BMS;35 - 44;inaktiv;NICHTS;4521
+Wien;Lehrabschluss/BMS;45 - 54;aktiv;IMPF;31778
+Wien;Lehrabschluss/BMS;45 - 54;aktiv;IMPF + GEN;14970
+Wien;Lehrabschluss/BMS;45 - 54;aktiv;GEN;8551
+Wien;Lehrabschluss/BMS;45 - 54;aktiv;NICHTS;8615
+Wien;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF;8570
+Wien;Lehrabschluss/BMS;45 - 54;inaktiv;IMPF + GEN;2075
+Wien;Lehrabschluss/BMS;45 - 54;inaktiv;GEN;2421
+Wien;Lehrabschluss/BMS;45 - 54;inaktiv;NICHTS;4666
+Wien;Lehrabschluss/BMS;55 - 64;aktiv;IMPF;29811
+Wien;Lehrabschluss/BMS;55 - 64;aktiv;IMPF + GEN;11398
+Wien;Lehrabschluss/BMS;55 - 64;aktiv;GEN;3926
+Wien;Lehrabschluss/BMS;55 - 64;aktiv;NICHTS;5723
+Wien;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF;27251
+Wien;Lehrabschluss/BMS;55 - 64;inaktiv;IMPF + GEN;5871
+Wien;Lehrabschluss/BMS;55 - 64;inaktiv;GEN;2624
+Wien;Lehrabschluss/BMS;55 - 64;inaktiv;NICHTS;8013
+Wien;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF;21070
+Wien;BHS/AHS/Kolleg;25 - 34;aktiv;IMPF + GEN;16730
+Wien;BHS/AHS/Kolleg;25 - 34;aktiv;GEN;8523
+Wien;BHS/AHS/Kolleg;25 - 34;aktiv;NICHTS;6288
+Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF;6930
+Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;IMPF + GEN;3649
+Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;GEN;3785
+Wien;BHS/AHS/Kolleg;25 - 34;inaktiv;NICHTS;5130
+Wien;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF;16955
+Wien;BHS/AHS/Kolleg;35 - 44;aktiv;IMPF + GEN;11810
+Wien;BHS/AHS/Kolleg;35 - 44;aktiv;GEN;5867
+Wien;BHS/AHS/Kolleg;35 - 44;aktiv;NICHTS;4687
+Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF;4328
+Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;IMPF + GEN;1812
+Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;GEN;2261
+Wien;BHS/AHS/Kolleg;35 - 44;inaktiv;NICHTS;2787
+Wien;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF;18888
+Wien;BHS/AHS/Kolleg;45 - 54;aktiv;IMPF + GEN;10594
+Wien;BHS/AHS/Kolleg;45 - 54;aktiv;GEN;4065
+Wien;BHS/AHS/Kolleg;45 - 54;aktiv;NICHTS;3786
+Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF;3864
+Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;IMPF + GEN;1193
+Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;GEN;1228
+Wien;BHS/AHS/Kolleg;45 - 54;inaktiv;NICHTS;2059
+Wien;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF;16222
+Wien;BHS/AHS/Kolleg;55 - 64;aktiv;IMPF + GEN;6723
+Wien;BHS/AHS/Kolleg;55 - 64;aktiv;GEN;1930
+Wien;BHS/AHS/Kolleg;55 - 64;aktiv;NICHTS;2603
+Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF;9049
+Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;IMPF + GEN;2216
+Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;GEN;1019
+Wien;BHS/AHS/Kolleg;55 - 64;inaktiv;NICHTS;2758
+Wien;Akademie/Hochschule;25 - 34;aktiv;IMPF;32824
+Wien;Akademie/Hochschule;25 - 34;aktiv;IMPF + GEN;31498
+Wien;Akademie/Hochschule;25 - 34;aktiv;GEN;7803
+Wien;Akademie/Hochschule;25 - 34;aktiv;NICHTS;5940
+Wien;Akademie/Hochschule;25 - 34;inaktiv;IMPF;7126
+Wien;Akademie/Hochschule;25 - 34;inaktiv;IMPF + GEN;4410
+Wien;Akademie/Hochschule;25 - 34;inaktiv;GEN;2966
+Wien;Akademie/Hochschule;25 - 34;inaktiv;NICHTS;4582
+Wien;Akademie/Hochschule;35 - 44;aktiv;IMPF;34115
+Wien;Akademie/Hochschule;35 - 44;aktiv;IMPF + GEN;28331
+Wien;Akademie/Hochschule;35 - 44;aktiv;GEN;7452
+Wien;Akademie/Hochschule;35 - 44;aktiv;NICHTS;5896
+Wien;Akademie/Hochschule;35 - 44;inaktiv;IMPF;6219
+Wien;Akademie/Hochschule;35 - 44;inaktiv;IMPF + GEN;3428
+Wien;Akademie/Hochschule;35 - 44;inaktiv;GEN;2294
+Wien;Akademie/Hochschule;35 - 44;inaktiv;NICHTS;2930
+Wien;Akademie/Hochschule;45 - 54;aktiv;IMPF;29278
+Wien;Akademie/Hochschule;45 - 54;aktiv;IMPF + GEN;19633
+Wien;Akademie/Hochschule;45 - 54;aktiv;GEN;4655
+Wien;Akademie/Hochschule;45 - 54;aktiv;NICHTS;4166
+Wien;Akademie/Hochschule;45 - 54;inaktiv;IMPF;3569
+Wien;Akademie/Hochschule;45 - 54;inaktiv;IMPF + GEN;1379
+Wien;Akademie/Hochschule;45 - 54;inaktiv;GEN;1039
+Wien;Akademie/Hochschule;45 - 54;inaktiv;NICHTS;1815
+Wien;Akademie/Hochschule;55 - 64;aktiv;IMPF;23415
+Wien;Akademie/Hochschule;55 - 64;aktiv;IMPF + GEN;10999
+Wien;Akademie/Hochschule;55 - 64;aktiv;GEN;2010
+Wien;Akademie/Hochschule;55 - 64;aktiv;NICHTS;2799
+Wien;Akademie/Hochschule;55 - 64;inaktiv;IMPF;6983
+Wien;Akademie/Hochschule;55 - 64;inaktiv;IMPF + GEN;1883
+Wien;Akademie/Hochschule;55 - 64;inaktiv;GEN;762
+Wien;Akademie/Hochschule;55 - 64;inaktiv;NICHTS;2089
+Wien;Unknown;25 - 34;aktiv;IMPF;38
+Wien;Unknown;25 - 34;aktiv;IMPF + GEN;20
+Wien;Unknown;25 - 34;aktiv;GEN;13
+Wien;Unknown;25 - 34;aktiv;NICHTS;29
+Wien;Unknown;25 - 34;inaktiv;IMPF;73
+Wien;Unknown;25 - 34;inaktiv;IMPF + GEN;20
+Wien;Unknown;25 - 34;inaktiv;GEN;38
+Wien;Unknown;25 - 34;inaktiv;NICHTS;91
+Wien;Unknown;35 - 44;aktiv;IMPF;21
+Wien;Unknown;35 - 44;aktiv;IMPF + GEN;6
+Wien;Unknown;35 - 44;aktiv;GEN;8
+Wien;Unknown;35 - 44;aktiv;NICHTS;17
+Wien;Unknown;35 - 44;inaktiv;IMPF;46
+Wien;Unknown;35 - 44;inaktiv;IMPF + GEN;15
+Wien;Unknown;35 - 44;inaktiv;GEN;23
+Wien;Unknown;35 - 44;inaktiv;NICHTS;47
+Wien;Unknown;45 - 54;aktiv;IMPF;13
+Wien;Unknown;45 - 54;aktiv;IMPF + GEN;5
+Wien;Unknown;45 - 54;aktiv;GEN;2
+Wien;Unknown;45 - 54;aktiv;NICHTS;18
+Wien;Unknown;45 - 54;inaktiv;IMPF;37
+Wien;Unknown;45 - 54;inaktiv;IMPF + GEN;6
+Wien;Unknown;45 - 54;inaktiv;GEN;12
+Wien;Unknown;45 - 54;inaktiv;NICHTS;44
+Wien;Unknown;55 - 64;aktiv;IMPF;5
+Wien;Unknown;55 - 64;aktiv;IMPF + GEN;2
+Wien;Unknown;55 - 64;aktiv;GEN;1
+Wien;Unknown;55 - 64;aktiv;NICHTS;14
+Wien;Unknown;55 - 64;inaktiv;IMPF;31
+Wien;Unknown;55 - 64;inaktiv;IMPF + GEN;1
+Wien;Unknown;55 - 64;inaktiv;GEN;4
+Wien;Unknown;55 - 64;inaktiv;NICHTS;16
