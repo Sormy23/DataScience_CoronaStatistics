@@ -1,9 +1,3 @@
-
-
-My Lord, here's a README for the project described in the document:
-
----
-
 # Datascience Corona Statistics
 
 **A comprehensive data science project analyzing the development of the COVID-19 pandemic using datasets provided by Statistik Austria.**  
